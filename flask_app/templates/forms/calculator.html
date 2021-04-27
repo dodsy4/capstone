@@ -1,0 +1,45 @@
+{% extends 'layouts/main.html' %}
+{% block title %}New Output{% endblock %}
+{% block content %}
+  <div class="form-wrapper">
+    <form method="post" class="form">
+      <h3 class="form-heading">List a new output</h3>
+      <div class="form-group">
+        <label for="material">Material</label>
+        {{ form.material(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <div class="form-group">
+          <label>Amount & Unit</label>
+          <div class="form-inline">
+            <div class="form-group">
+              {{ form.amount(class_ = 'form-control', autofocus = true) }}
+            </div>
+            <div class="form-group">
+              {{ form.unit(class_ = 'form-control', autofocus = true) }}
+            </div>
+          </div>
+      </div>
+      <div class="form-group">
+        <label for="divert_cost">Divert Cost</label>
+        {{ form.divert_cost(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <div class="form-group">
+        <label for="traditional_cost">Traditional Cost</label>
+        {{ form.traditional_cost(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <div class="form-group">
+        <label for="site_address">Site Address</label>
+        {{ form.site_address(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <div class="form-group">
+        <label for="traditional_address">Traditional Address</label>
+        {{ form.traditional_address(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <div class="form-group">
+        <label for="divert_address">Divert Address</label>
+        {{ form.divert_address(class_ = 'form-control', autofocus = true) }}
+      </div>
+      <input type="submit" value="Submit" class="btn btn-primary btn-lg btn-block">
+    </form>
+  </div>
+{% endblock %}

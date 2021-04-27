@@ -1,0 +1,53 @@
+{% extends 'layouts/main.html' %}
+{% block title %}material Search{% endblock %}
+{% block content %}
+<div class="row">
+	<div class="col-sm-6">
+		<h1 class="monospace">
+			{{ material.waste_stream }}
+		</h1>
+		<p class="subtitle">
+			ID: {{ material.id}}
+		</p>
+		<p>
+			Material: {{ material.material }}
+		</p>
+		<p>
+			Amount: {{ material.amount }}
+		</p>
+		<p>
+			County: {{ material.county }}
+		</p>
+		<p>
+			Condition: {{ material.condition }}
+		</p>
+		<p>
+			<a href="/material/{{ material.id }}/request"><button class="btn btn-primary btn-lg">Request Material</button></a>
+		</p>
+	</div>
+	<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>	
+		<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+	<div class="col-sm-6">
+		<img class="mySlides" src="{{ url_for('static', filename='img/'+material.image_link1+'.png') }}">
+		<img class="mySlides" src="{{ url_for('static', filename='img/'+material.image_link2+'.png') }}">
+		<img class="mySlides" src="{{ url_for('static', filename='img/'+material.image_link3+'.png') }}">
+		<script>
+		var slideIndex = 1;
+		showDivs(slideIndex);
+		function plusDivs(n) {
+			showDivs(slideIndex += n);
+		}
+		function showDivs(n) {
+			var i;
+			var x = document.getElementsByClassName("mySlides");
+			if (n > x.length) {slideIndex = 1}
+			if (n < 1) {slideIndex = x.length} ;
+			for (i = 0; i < x.length; i++) {
+				x[i].style.display = "none";
+			}
+			x[slideIndex-1].style.display = "block";
+		}
+		</script>
+	</div>
+</div>
+{% endblock %}

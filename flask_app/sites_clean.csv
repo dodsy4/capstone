@@ -1,0 +1,997 @@
+,_id,project_title,bb_encore_clients.name,site_address1,site_address2,site_address3,site_city,site_postcode,services_start_date,project_end_date
+0,1,Rackspace,Interserve Construction Ltd ( Paragon Div ),Building 5,Rackspace City,Millington Road,,UB3 4AZ,2015-06-28,2015-12-28
+1,4,Interserve Construction Ltd (Paragon div) - RPS East Smithfield,Interserve Construction Ltd ( Paragon Div ),66 East Smithfield,,,London,E1W 1AW,2016-06-02,
+2,5,Gloucester Terrace,Interserve Construction Ltd ( Paragon Div ),Royal Court Apartments,51 Gloucester Terrace,,London,W2 3DQ,2014-05-12,2016-04-01
+3,6,Eagle House,Interserve Construction Ltd ( Paragon Div ),161 City Road,,,London,EC1V 1NR,2015-10-20,2016-03-01
+4,7,New Loom House,Interserve Construction Ltd ( Paragon Div ),101 Back Lane,,,London,E1 1LU,2015-03-16,2016-02-28
+5,8,Plantation Place,Interserve Construction Ltd ( Paragon Div ),Plantation Place,30 Fenchurch Street,,London,EC3M 3BD,2015-03-20,
+6,9,MOJ Taylor House,Interserve Construction Ltd ( Paragon Div ),88 Rosebery Avenue,,,London,EC1R 4QU,2015-10-19,2016-03-31
+7,10,Osbourne Clarke,Interserve Construction Ltd ( Paragon Div ),2nd Floor,3 Forbury Place,,Reading,RG1 3JD,2015-12-04,2016-03-21
+8,11,V&A Museum Lift Refurbishment,Interserve Construction Ltd ( Paragon Div ),Victoria and Albert Museum,Cromwell Road,,London,SW7 2RL,2016-01-11,2016-04-29
+9,12,Heston Centre,Interserve Construction Ltd ( Paragon Div ),"Units 7A, 7B & 7C The Heston Centre",International Avenue,Hunslow,Middlesex,TW5 9NJ,2016-01-19,2016-04-12
+10,13,Science Museum Interactive Gallery,Interserve Construction Ltd ( Paragon Div ),Exhibition Road,South Kensington,,London,SW7 2DD,2016-01-26,2016-06-23
+11,14,Interserve construction Ltd ( Paragon Div )- Elstree House,Interserve Construction Ltd ( Paragon Div ),Elstree Way,Borehamwood,,Hertfordshire,WD6 1SD,2015-09-04,2017-02-13
+12,15,Westfield House,Interserve Construction Ltd ( Paragon Div ),Westfield House,London Road,,High Wycombe,HP11 1HA,2015-07-22,2016-04-25
+13,16,Northwest Ambulance Station,Brown and Bancroft,449-451 Garstand Road,Broughton,,Preston,PR3 5LN,2016-01-11,
+14,17,"Collins- Elsinore House, Phase 1",Collins Construction Ltd,77 Fulham Palace Road,,,London,W6 8JA,2015-08-10,
+15,18,Winnersh,Collins Construction Ltd,Building 220,Winnersh Triangle,,Reading,RG41 5TP,2015-09-07,2016-05-06
+16,19,Interserve- RAF Honnington,Interserve Construction,RAF Honnington,Green Lane,,Honnington,IP31 1EE,2016-01-06,
+17,20,Richard Crossman,Overbury Central,Richard Crossman Building,Jorden Well,,Coventry,CV1 5RW,2015-05-26,2016-05-05
+18,21,Coop Litchfield,Overbury Central,Central England Cooperative,Hermes Road,,Litchfield,WS13 6RH,2016-01-12,2016-05-30
+19,22,New Walk Leicester,Overbury Central,53 Wellington Street,,,Leicester,LE1 6HJ,2016-01-25,2016-07-25
+20,23,Keswick YHA,Brown and Bancroft,YHA,Station Street,,Keswick,CA12 5LH,2016-02-24,
+21,32,Camelford House,Area,4th Floor,Camelford House,89 Albert Embankment,London,SE1 7TP,2016-03-03,
+22,33,Science Museum- Mathematics Gallery,Interserve Construction Ltd ( Paragon Div ),Science Museum,Dana Centre,165 Queen's Gate,London,SW7 5HD,2016-03-07,2016-07-15
+23,34,"Parkway, Chelmsford",One Hundred Partnership,"Birkett Long,","Faviell House,","Parkway,",Chelmsford.,CM1 1WZ,2016-03-25,
+24,35,Royal College of Nursing,Overbury Central,Lyndon House,56-62 Hagley Road,,Birmingham,B16 8PE,2016-04-04,
+25,36,Berlin - Curry's PC World Blackburn,DSG Retail Plc (Currys),,,,,,2016-04-01,
+26,37,Science Museum,Science Museum Group,Exhibition Road,,,London,SW7 2DD,2016-03-31,2016-04-08
+27,38,Ferndale Road,Interserve Construction Ltd ( Paragon Div ),240-250 Ferndale Road,,,London,SW9 8BQ,2016-04-06,2016-05-16
+28,39,"SWAS - Curry's PC World, Workington",DSG Retail Plc (Currys),Derwent House Retail Park,Derwent Drive,,Workington,CA14 3YW,2016-04-11,
+29,40,"SWAS - Curry's PC World, Sheffield Meadhowhall",DSG Retail Plc (Currys),,,,,,2016-05-20,2016-05-27
+30,41,"SWAS - Curry's PC World, Crewe",DSG Retail Plc (Currys),Curry's PC World,"Unit 6, Grand Junction Retail Park",,Crewe,CW12 2RP,2016-04-15,2016-04-25
+31,42,"Berlin - Curry's PC World, Hull St Andrews",DSG Retail Plc (Currys),"Unit 8, The Junction (Phase 3)",St Andrews Quay,,Hull,HU3 4SA,2016-04-28,
+32,43,"SWAS - Curry's PC World, Burton on Trent",DSG Retail Plc (Currys),"Eight Avenue, Centrum East Retail Park",,,Burton on Trent,DE14 2WG,2016-05-09,2016-05-13
+33,44,Ringmer,One Hundred Partnership,East Sussex Highways,The Broyle,Ringmer,Lewes,BN8 5NP,2016-04-20,
+34,46,"SWAS - Curry's PC World, Loughborough",DSG Retail Plc (Currys),Curry's PC World,Units C-D,Derby Road Retail Park,Loughborough,LE11 5PF,2016-04-25,2016-04-29
+35,47,"SWAS - Curry's PC World, Leeds.",DSG Retail Plc (Currys),Curry's PC World,"LDU1, Cavendish House",King Charles Street,Leeds,LS1 6AG,2016-05-17,
+36,50,"Berlin - Curry's PC World, Doncaster",DSG Retail Plc (Currys),Curry's PC World,Unit 2 Danum Retail Park,York Road,Doncaster,DN5 8AS,2016-04-29,
+37,51,"SWAS- Curry's PC World, Nottingham Trinity",DSG Retail Plc (Currys),Curry's PC World,Unit 10,Trinity Square,Nottingham,NG1 4AF,2016-05-03,2016-05-13
+38,52,Overbury- Library of Birmingham,Overbury Central,Library of Birmingham,Cambridge Street,,Birmingham,B1 2ND,2016-04-28,2016-08-04
+39,53,Phelipps Way,Area,9 Phelipps Way,Corfe Mullen,,,BH21 3NN,2016-04-30,
+40,54,"Berlin - Curry's PC World, Bradford",DSG Retail Plc (Currys),"Curry's PC World, Bradford","Unit 1, Foster Square Retail Park",Canal Road,Bradford,BD1 4JB,2016-05-05,
+41,55,"Theta House, Frimley",Collins Construction Ltd,"Theta House, Lyon Way",Frimley,Camberley,Surrey,GU16 7ER,2016-05-03,
+42,56,"Berlin - Curry's PC World, Bolton Gate.",DSG Retail Plc (Currys),Unit G,Bolton Gate Retail Park,20-22 Round Hill Way,Bolton,BL1 2SP,2016-05-04,
+43,57,"SWAS- Curry's PC World, Nottingham Madford",DSG Retail Plc (Currys),Madford Retail Park,Mansfield Road,,Nottingham,NG5 6AD,2016-05-06,
+44,58,Hull,Caps Group Limited,221 -227 Holderness Road,,,Hull,HU8 8TB,2016-05-09,
+45,59,Eastbourne Terrace,Interserve Construction Ltd ( Paragon Div ),20 Eastbourne Terrace,Paddington,,London,W2 6LE,2016-05-12,
+46,60,"SWAS - Curry's, Sheffield Meadowhall",DSG Retail Plc (Currys),Unit 93 Upper Mall,46 high Street,Meadowhall,Sheffield,S9 1EN,2016-05-20,
+47,61,Reading,Caps Group Limited,37 broad street,reading,,,rg1 2aa,2016-05-06,
+48,62,Mark Smith personal skip,Overbury Central,9 Ravenscroft Road,,,Solihull,B92 8AH,2016-05-09,
+49,63,"SWAS - Curry's PC World, Edinburgh Corstophine",DSG Retail Plc (Currys),1-17 Glasgow Road,Corstophine,Edinburgh,EH12 8HW,,2016-05-16,2016-05-27
+50,64,"Berlin - Curry's PC World, Newcastle Kingston Park",DSG Retail Plc (Currys),Kingston Retail Park,,,Newcastle,NE3 2FP,,
+51,65,"SWAS - Curry's PC World, Shrewsbury",DSG Retail Plc (Currys),Meole Brace Retail Park,,,Shrewsbury,SY3 9NB,2016-05-20,
+52,66,Queensgate,Interserve Construction Ltd ( Paragon Div ),1 Myrtle Road,Brentwood,,Essex,CM14 5EG,2016-05-16,2016-08-26
+53,67,Spitalfields,Interserve Construction Ltd ( Paragon Div ),9 Frying Pan Alley,London,,,E1 7HS,2016-05-16,2017-06-01
+54,68,York Place,Artez,York Place,15-17 york place,,Leeds,LS1 2EX,2016-05-23,
+55,69,"Berlin - Curry's PC World, Birmingham Highgate",DSG Retail Plc (Currys),Curry's PC World,Upper Conybere Street,,Birmingham,B12 0EB,2016-05-20,
+56,70,"SWAS - Curry's PC World, Halifax",DSG Retail Plc (Currys),Unit C Charlestown Road,,,Halifax,HX3 6AB,2016-05-31,2016-06-10
+57,71,Marriott Fetter Lane,Interserve Construction Ltd ( Paragon Div ),86 Fetter Lane,,,London,EC4A 1EN,2016-05-19,2016-06-24
+58,72,"SWAS - Carphone Warehouse, Ashford",DSG Retail Plc (Currys),Carphone Warehouse,POD A,Ashford Retail Park,Kent,TN24 0SG,2016-05-23,
+59,73,Abbey Road,Interserve Construction Ltd ( Paragon Div ),No 5 Abbey Road,St johns Wood,London,,NW8 9AY,2016-05-19,2016-12-16
+60,74,Interserve Construction Ltd (Paragon div) - 1 Poultry,Interserve Construction Ltd ( Paragon Div ),1 Poultry,,,London,EC2R 8EJ,2016-06-13,2017-03-23
+61,75,"SWAS - Curry's PC World, Gateshead Metrocentre",DSG Retail Plc (Currys),Unit 39/40 The Metrocentre,,,Gateshead,NE11 9YR,2016-06-06,2016-06-10
+62,76,Margaret street,Interserve Construction Ltd ( Paragon Div ),10 Margaret Street,London,,,W1W 8RL,2016-05-31,
+63,77,Dartford,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+64,78,Berlin - Curry's Manchester Cheetham Hill,DSG Retail Plc (Currys),Cheetham Hill Retail Park,Elizabeth Street,,Manchester,M8 8BB,2016-05-31,
+65,79,East surrey Hospital,Interserve Construction Ltd ( Paragon Div ),Canada Avenue,Redhill,,Surrey,RH1 5RH,2016-06-06,
+66,80,Leytonstone,Caps Group Limited,628 - 632 high Road,,Leytonstone,London,E11 3DA,2016-06-03,
+67,81,"Berlin - Curry's PC World, Preston Deepdale",DSG Retail Plc (Currys),Curry's PC World,Unit A Deepdale Park,Blackpool Road,Preston,PR1 6AF,2016-06-16,
+68,82,"Cotton Traders, Wilton",Caps Group Limited,Cotton Traders,Unit 13 Wilton Shopping Centre,King Street,Wilton,SP2 0RS,2016-06-07,2016-06-17
+69,83,"Berlin - PC World, Wednesbury J9",DSG Retail Plc (Currys),,PC World,Gallagher Retail Park,Wednesbury,WS10 9QY,2016-06-13,
+70,84,"Collins- Victoria Street, Level 4",Collins Construction Ltd,100 Victoria Street,,,London,SW1E 5JL,2016-06-13,
+71,85,"SWAS - Curry's PC World, Sheffield Drakehouse",DSG Retail Plc (Currys),Curry's PC World,Unit 8 Drakehouse Retail Park,Waterthorpe,Sheffield,S20 7JJ,2016-06-13,2016-06-17
+72,86,"CI - Curry's PC World, Northampton Nene Valley",DSG Retail Plc (Currys),Curry's PC World,"Unit 4A, Nene Valley Retail Park",,Northampton,NN1 1ET,2016-06-20,2016-06-29
+73,87,Airwave Rugby,Area,Airwave Solutions,"Airwave Rugby centre, 2 Bailey Road",Central Park,Rugby,CV23 0PD,2016-06-22,
+74,88,"SWAS - Curry's PC World, Wrexham",DSG Retail Plc (Currys),"Curry's PC World, Unit E, Plas Coch Retail Park",Clwyd,,Wrexham,LL11 2BA,2016-06-24,2016-07-13
+75,89,Berlin - Curry's Wednesbury J9,DSG Retail Plc (Currys),,Curry's,Gallagher Retail Park,Wednesbury,WS10 9QY,,
+76,90,"CI - Curry's PC World, Leeds Crown Point",DSG Retail Plc (Currys),Unit 7 Crown Point Retail Park,,,Leeds,LS10 1ET,2016-06-24,
+77,91,SG Bishops Sq,Interserve Construction Ltd ( Paragon Div ),10 Bishops sq,,,London,E1 6EG,,
+78,92,BT Baynard House,Interserve Construction Ltd ( Paragon Div ),135 Queen Victoria Street,London,,,EC4V 4AA,2015-10-19,2016-01-29
+79,93,Capital Tower,Interserve Construction Ltd ( Paragon Div ),Capital Tower,91 Waterloo Road,london,,SE1 8RT,2016-04-19,2017-05-02
+80,94,Chelmsford,One Hundred Partnership,Birkett Long,Faviell House,Parkway,Chelmsford,CM1 1WZ,2016-03-25,2016-04-29
+81,95,Central England Cooperative,Overbury Central,Central England Cooperative,Hermes Road,Litchfield,,WS13 6RH,2016-01-12,2016-06-30
+82,96,Masthead,Interserve Construction Ltd ( Paragon Div ),Unit 10,Capstan Court,Crossways Business Park,Dartford,DA2 6QF,2016-03-11,2016-04-25
+83,97,DTC Belvedere,Interserve Construction Ltd ( Paragon Div ),DTC Belvedere,33 Woolwich Road,,,DA17 5EE,2016-03-02,2016-04-12
+84,99,KIA Chiswick,Interserve Construction Ltd ( Paragon Div ),963 Great West Road,Brentford,Middlesex,,TW8 9FX,2015-09-01,
+85,100,"Interserve- NHS, Basildon",Interserve Construction,NHS,Swinborne Road,Burnt Mills Ind. Estate,Basildon,SS13 1LW.,2016-03-03,2016-08-03
+86,101,Ringmer,One Hundred Partnership,East Sussex Highways,The Broyle,Ringmer,Lewes,BN8 5NP,2016-04-20,2016-06-10
+87,102,SG House,Interserve Construction Ltd ( Paragon Div ),41 Tower Hill,,London,,EC3N 4SG,2015-06-02,2015-12-30
+88,103,The Shard,Interserve Construction Ltd ( Paragon Div ),The Shard,32 London Bridge Street,London,,SE1 9SG,2016-01-21,2016-02-15
+89,104,Virgin Active Clapham,Interserve Construction Ltd ( Paragon Div ),4-20 North Street,Clapham,,London,SW4 0HG,2016-06-27,
+90,105,BMW Oxford,Interserve Construction Ltd ( Paragon Div ),Gate 6 Mini Plant,Cowley,,Oxford,OX4 6NL,2016-06-24,
+91,106,Interserve Construction Ltd (Paragon div) - Bear Gardens,Interserve Construction Ltd ( Paragon Div ),1 Bear Gardens,1-2 Rose Alley,,London,SE1 9ED,2016-07-04,2017-05-31
+92,107,Overbury- Lakeside House,Overbury Central,Lakeside House,The Lakes,Bedford Road,Northampton,NN4 7HD,2016-06-29,2016-08-17
+93,108,Overbury- Brindley Place,Overbury Central,4 Brindley Place,,,Birmingham,B1 2HZ,2016-06-29,2017-03-31
+94,109,"CI - Curry's PC World, Ashton Under Lyne",DSG Retail Plc (Currys),"Curry's PC World,","Unit 17 Snipe Retail Park,","Manchester Road,",Ashton Under Lyne,OL7 0DN.,2016-07-18,2016-08-05
+95,110,"Berlin - Curry's, Manchester White City",DSG Retail Plc (Currys),Curry's,Unit J White City Retail Park,"Chester Road, Trafford",Manchester,M16 0RP,2016-07-04,
+96,111,"CI - Curry's PC World, Kings Lynn.",DSG Retail Plc (Currys),Curry's PC World,"Unit B1, Hardwick Retail Park",,Kings Lynn,PE30 4NA,2016-07-08,2016-07-19
+97,112,Greystar Islington,Interserve Construction Ltd ( Paragon Div ),Chapter Islington,32-34 Market Road,Islington,london,N7 9AW,2016-07-04,
+98,113,"SWAS - Curry's PC World, Clacton on Sea.",DSG Retail Plc (Currys),Curry's PC World,"Unit 2, Brook Retail Park",,Clacton on Sea,CO15 3TP.,2016-07-11,
+99,114,Royal Sussex Hospital,Interserve Construction Ltd ( Paragon Div ),Royal Sussex County Hospital,Eastern Road,Brighton,,BN2 5BE,2016-07-06,
+100,115,Berlin - Derby Meteor,DSG Retail Plc (Currys),,,,,,,
+101,116,Berlin - Hull Clough Street,DSG Retail Plc (Currys),,,,,,,
+102,117,Berlin - Bedford,DSG Retail Plc (Currys),,,,,,,
+103,118,"Berlin - Curry's, Stoke Festival Park",DSG Retail Plc (Currys),Curry's,Unit 1 Festival Heights Retail Park,,Stoke on Trent,ST1 5NZ,2016-07-28,
+104,119,Berlin - Curry's Sunderland,DSG Retail Plc (Currys),Currys,"Unit 1, Trimdon Street",,Sunderland,SR4 6DW,2016-07-15,
+105,120,Berlin - Nottingham Castle Marina,DSG Retail Plc (Currys),,,,,,,
+106,121,"Berlin - Curry's, Barrow In Furness",DSG Retail Plc (Currys),Curry's,Holywood Retail Park,Hindpool Road,Barrow-In-Furness,LA14 2NA,2016-08-19,
+107,123,"Berlin - Curry's, Lancaster",DSG Retail Plc (Currys),Unit 1 Parliament Street,Bulk Road,,Lancaster,LA1 1DB,2016-08-26,
+108,124,Berlin - PC World St Helens,DSG Retail Plc (Currys),PC World,Ravenhead Retail Park,,St Helens,WA9 1JJ,2016-09-08,
+109,125,"Berlin - Curry's, Wakefield",DSG Retail Plc (Currys),Curry's,Unit 2 Westgate Retail Park,Ings Road,Wakefield,WF2 9SD,2016-08-25,
+110,126,Berlin - Curry's PC World Aberdeen Berryden,DSG Retail Plc (Currys),Curry's PC World,Unit 1 Berryden Retail Park,,Aberdeen,AB25 3SG,2016-09-28,
+111,127,"Berlin - PC World, East Kilbride",DSG Retail Plc (Currys),PC World,Unit A,Howard Avenue,East Kilbride,G74 4ZA.,2016-08-30,
+112,128,"Berlin - Curry's, Stafford",DSG Retail Plc (Currys),Curry's,Unit 1 Madford Retail Park,,Stafford,ST16 2QY,2016-09-22,
+113,129,"Berlin - Curry's, Wolverhampton",DSG Retail Plc (Currys),"Curry's, Unit D",St Johns Retail Park,Dudley Road,Wolverhampton,WV2 4SJ,2016-09-23,
+114,130,"Berlin - PC World, Inverness",DSG Retail Plc (Currys),PC World,Telfords Street,,Inverness,IV3 5LU,2016-08-26,
+115,131,Berlin - CURRY'S Kirkcaldy,DSG Retail Plc (Currys),Curry's,Fife Retail Park,,Kirkcaldy,KY2 6QL,2016-09-16,
+116,132,"Berlin- Curry's, Lincoln",DSG Retail Plc (Currys),Curry's,Unit 4 Tritton Retail Park,Tritton Road,Lincoln,LN6 7AN,2016-09-02,
+117,133,Berlin - Birmingham Erdington,DSG Retail Plc (Currys),,,,,,,
+118,134,Berlin - Birmingham Stechford,DSG Retail Plc (Currys),,,,,,,
+119,135,Berlin - Curry's Thetford,DSG Retail Plc (Currys),Curry's,Forest Retail Park,,Thetford,IP24 3QL,2016-10-13,
+120,136,Berlin - Glasgow Jamaica Street,DSG Retail Plc (Currys),,,,,,,
+121,137,Berlin - Nuneaton,DSG Retail Plc (Currys),,,,,,,
+122,138,Berlin - Wigan,DSG Retail Plc (Currys),,,,,,,
+123,139,Berlin - Glasgow Forge (2017),DSG Retail Plc (Currys),,,,,,,
+124,140,Berlin - Leigh (2017),DSG Retail Plc (Currys),,,,,,,
+125,141,Berlin - Edinburgh Kinnaird (2017),DSG Retail Plc (Currys),,,,,,,
+126,142,Berlin - Bridlington (2017),DSG Retail Plc (Currys),,,,,,,
+127,143,Berlin - Edinburgh Craigleith (2017),DSG Retail Plc (Currys),,,,,,,
+128,144,Berlin - Skegness (2017),DSG Retail Plc (Currys),,,,,,,
+129,145,Berlin - Cannock,DSG Retail Plc (Currys),,,,,,,
+130,146,Berlin - Sheffield Heeley,DSG Retail Plc (Currys),,,,,,,
+131,147,Berlin - Corby (2017),DSG Retail Plc (Currys),,,,,,,
+132,148,Berlin - Galashiels (2017),DSG Retail Plc (Currys),,,,,,,
+133,149,Berlin - Greenock (2017),DSG Retail Plc (Currys),,,,,,,
+134,150,Berlin - Irvine (2017),DSG Retail Plc (Currys),,,,,,,
+135,151,Berlin - Ayr (2017),DSG Retail Plc (Currys),,,,,,,
+136,152,Berlin - Bury (2017),DSG Retail Plc (Currys),,,,,,,
+137,153,Berlin - Kilmarnock (2017),DSG Retail Plc (Currys),,,,,,,
+138,154,Berlin - Worksop (2017),DSG Retail Plc (Currys),,,,,,,
+139,155,Example site,Interserve Construction Ltd ( Paragon Div ),,,,,,2017-10-16,2017-12-20
+140,156,Virgin Active - Strand,Interserve Construction Ltd ( Paragon Div ),80 Strand,Shell Mex House,,London,WC2R 0DT,2016-07-07,
+141,157,"Renault, Rickmansworth",Interserve Construction Ltd ( Paragon Div ),Building 2,The Rivers Park,Rickmansworth,London,WD3 9YS,2016-07-11,
+142,158,Exchange House,Interserve Construction Ltd ( Paragon Div ),Exchange House,12 Primrose Street,,London,EC2A 2HS,2016-07-08,
+143,159,Greystar Highbury,Interserve Construction Ltd ( Paragon Div ),Wedgewood House,309 Holloway Road,,London,N7 9DS,2016-07-15,
+144,160,Paxton Avenue,Pro Landscapes,38 Paxton Avenue,Slough,,Slough,SL1 2SY,2016-07-13,
+145,161,WHSMITHS-maidstone,Interserve Construction Ltd ( Paragon Div ),38-42 Week street,Maidstone,Access from Church Street from the back,Kent,ME14 1RP,2016-07-14,
+146,162,"Overbury- The Mail Box, Birmingham. Phase 2.",Overbury Central,The Mail Box,Severn Street,,Birmingham,B1 1RS,2016-07-18,
+147,163,CI - Curry's Norwich,DSG Retail Plc (Currys),"Curry's, Unit 5, Sweetbriar Retail Park",Sweet Briar Road,,Norwich,NR6 5DH,2016-07-19,2016-07-22
+148,164,Rivergate,Interserve Construction Ltd ( Paragon Div ),Rivergate House,New Bury Business Park,London Road,Newbury,RG14 2PZ,2016-07-19,
+149,165,Purple Future,Interserve Construction Ltd ( Paragon Div ),Civic Centre,Portsmouth,,,PO1 2AL,2016-07-21,
+150,166,"CI - Curry's PC World, Derby Kingsway",DSG Retail Plc (Currys),"Curry's PC World,","Kingsway Retail Park,",,"Derby,",DE22 3FA,2016-07-25,
+151,167,City of London School for girls,Interserve Construction Ltd ( Paragon Div ),St Giles Terrace,Access is via Wood Street/Fore Street off London Wall,,London,EC2Y 8BB,2016-07-26,
+152,168,"SWAS - Curry's PC World, Leeds Birstall.",DSG Retail Plc (Currys),Curry's PC World,West Yorkshire Retail Park,Holdening Way,Leeds,WF17 9AD,2016-08-08,2016-08-30
+153,169,Victoria Street,Land Securities,,,,,,,
+154,170,"Collins- Victoria Street, Level 4 - Watching Brief",Collins Construction Ltd,,,,,,,
+155,171,"Collins- Victoria Street, Level 3",Collins Construction Ltd,,,,,,,
+156,172,"Collins- Victoria Street, Reception",Collins Construction Ltd,,,,,,,
+157,173,"Collins- Victoria Street, WC's",Collins Construction Ltd,,,,,,,
+158,174,Paragon - Aspen Insurance - Plantation Place,Interserve Construction Ltd ( Paragon Div ),30 Fenchurch Street,,,London,EC3M 3BD,2016-10-19,
+159,175,Collins- Southwark Street,Collins Construction Ltd,61 Southwark Street,,,London,SE1 0HL,2016-07-11,2017-02-19
+160,176,"Berlin - Curry's, Nottingham Castle Meadow/Castle Marina Retail Park",DSG Retail Plc (Currys),Curry's,Unit 6C Castle Meadow Retail Park,,Nottingham,NG7 1GX,2016-08-01,
+161,177,WHSmiths - stevenage,Interserve Construction Ltd ( Paragon Div ),WHSmiths,Queensway,Stevenage,,SG1 1EA,2016-08-09,
+162,178,Overbury- Baskerville House,Overbury Central,Baskerville House,Cambridge Street,,Birmingham,B1 2ND,2016-08-11,
+163,179,Overbury Head Office kitchen refit.,Overbury Central,Overbury Headoffice,207 Fort Dunlop,Fort Parkway,Birmingham,B24 9FD,2016-08-12,
+164,180,"Berlin - PC World, Stirling",DSG Retail Plc (Currys),PC World,Unit 3 Springkerse Retail Park,Muirton Road,Stirling,FK7 7TL.,2016-08-15,
+165,181,"CI - Curry's PC World, Dundee",DSG Retail Plc (Currys),Curry's PC World,Unit 3,Kingsways West Retail Park,Dundee,DD3 8RX.,2016-08-19,
+166,182,Canon street,Interserve Construction Ltd ( Paragon Div ),100 Canon Street,London,,,EC4N 6EU,2016-08-17,
+167,183,Southwark Street- Strip out,Collins Construction Ltd,,,,,,,
+168,184,Wells Terrace,Interserve Construction Ltd ( Paragon Div ),Wells Terrace,Finsbury park Station,,London,N4 3JU,2016-08-22,2016-09-26
+169,185,Overbury- Goodyear Project,Overbury Central,Trident Park,Birmingham Business Park,,Birmingham,B37 7YN,2016-08-30,
+170,186,Collins- Stratton Street,Collins Construction Ltd,10 Stratton Street,,,London,W1J 8DA,2016-06-13,2017-04-01
+171,187,Atrium - Milton Keynes,Interserve Construction Ltd ( Paragon Div ),Atrium,Foxhunter Drive,Linford Wood,Milton Keynes,MK14 6GE,2016-09-05,
+172,188,The Shard,Interserve Construction Ltd ( Paragon Div ),32 London Bridge Street,London,,,SE1 9SG,2016-08-23,
+173,189,WHSmiths - Harrow,Interserve Construction Ltd ( Paragon Div ),WHsmiths St anns Shopping Centre,Access Via Kimberley Road,West Service Yard,Harrow,HA1 1AT,2016-08-24,
+174,190,SWAS - Bangor,DSG Retail Plc (Currys),,,,,,,
+175,191,SWAS - Birmingham Black,DSG Retail Plc (Currys),,,,,,,
+176,192,SWAS - Boston,DSG Retail Plc (Currys),,,,,,,
+177,193,SWAS - Burnley,DSG Retail Plc (Currys),,,,,,,
+178,194,SWAS - Coatbridge,DSG Retail Plc (Currys),,,,,,,
+179,195,SWAS - Colchester,DSG Retail Plc (Currys),,,,,,,
+180,196,Dixons Durham,DSG Retail Plc (Currys),,,,,,,
+181,197,SWAS - Falkirk,DSG Retail Plc (Currys),,,,,,,
+182,198,SWAS - Glasgow,DSG Retail Plc (Currys),,,,,,,
+183,199,SWAS - Grimsby,DSG Retail Plc (Currys),,,,,,,
+184,200,SWAS - Hartlepool,DSG Retail Plc (Currys),,,,,,,
+185,201,SWAS - Huddersfield,DSG Retail Plc (Currys),,,,,,,
+186,202,SWAS - Ipswich,DSG Retail Plc (Currys),,,,,,,
+187,203,Direct - Liverpool Speke,DSG Retail Plc (Currys),,,,,,,
+188,204,SWAS - Livingston,DSG Retail Plc (Currys),,,,,,,
+189,205,SWAS - Pontefract,DSG Retail Plc (Currys),,,,,,,
+190,206,Direct - Rochdale,DSG Retail Plc (Currys),,,,,,,
+191,207,SWAS - Scunthorpe,DSG Retail Plc (Currys),,,,,,,
+192,208,1 & 2 Minster Court,Interserve Construction Ltd ( Paragon Div ),Building 1 -2,Minster Court,1 Mincing Lane,London,EC3R 7AA,2016-08-26,
+193,209,"Templeback, Bristol",Area,10 Templeback,,,Bristol,BS1 6FL.,2016-09-06,
+194,210,"CI- Curry's PC World, Telford.",DSG Retail Plc (Currys),Curry's PC World,Forge Retail Park,Colliers Way Old Park,Telford,TF3 4AG,2016-09-02,
+195,211,Berlin- Curry's East Kilbride,DSG Retail Plc (Currys),Curry's,Unit D,Howard Avenue,East Kilbride,G74 4ZA,2016-09-08,
+196,212,"Motorola, Rugby",Area,"Airwave Solutions, Airwave Rugby Centre",2 Bailey Road,Central Park,Rugby,CV23 0PD.,2016-09-09,
+197,213,Overbury- Calthorpe Estates,Overbury Central,"76 Hagley Road,","Calthorpe Estate,",,"Birmingham,",B16 8LU.,2016-09-08,
+198,214,Overbury- Louisa House,Overbury Central,Louisa House,Edward Street,Quay Place,Birmingham,B1 2RA,2016-09-08,
+199,215,Phase 20,Interserve Construction Ltd ( Paragon Div ),Amberly Road,Gillingham Business Park,,Gillingham,ME8 0PU,2016-11-04,2017-04-07
+200,216,"Berlin- PC WORLD, Kirkcaldy",DSG Retail Plc (Currys),PC World,Fife Retail Park,,Kirkcaldy,KY2 6QL,,
+201,217,Paragon - IMechE External Works,Interserve Construction Ltd ( Paragon Div ),1 Birdcage Walk,,,London,SW1H 9LL,2016-09-19,2017-04-23
+202,218,WHSmiths - Harpenden,Interserve Construction Ltd ( Paragon Div ),29 The High Street,Loading Bay around the back,Shared with Sainsburys - MUST CALL 1HR BEFORE,Harpenden,AL5 2RU,2016-09-16,
+203,219,"CI- Curry's PC World, Mansfield",DSG Retail Plc (Currys),Curry's PC World,Unit B/C,Nottingham Road,Mansfield,NG18 1BW,2016-09-16,
+204,220,Colt,Interserve Construction Ltd ( Paragon Div ),East Anglia Hse,12-34 Great Eastern Street,,London,EC2A 3EH,2016-09-19,
+205,221,Collins- Lower James Street,Collins Construction Ltd,8-10 Lower James Street,,,London,W1F 9EL,,
+206,222,Virgin Active Broadgate,Interserve Construction Ltd ( Paragon Div ),1 Exchange Place,Broadgate,,London,EC2M 2QT,2016-09-19,
+207,223,12 Bouchier Street,Interserve Construction Ltd ( Paragon Div ),12 Bouchier Street,,,London,W1D 4HZ,2016-08-09,
+208,224,Brockley Road,Interserve Construction Ltd ( Paragon Div ),Brockley Delivery office,210 Brockley Road,,London,SE4 2LU,2016-09-27,
+209,225,Ashstead Sorting Office,Interserve Construction Ltd ( Paragon Div ),Ashstead Sorting office,13 The Street,Ashstead,Surrey,KT21 2AD,2016-09-27,
+210,226,3 Minster court - Strip out,Interserve Construction Ltd ( Paragon Div ),3 minster Court,,,London,EC3R 7DD,,
+211,227,Monument Street,Interserve Construction Ltd ( Paragon Div ),Ground Floor,11-19 Monument Street,,London,EC3R 6BR,2016-10-04,
+212,228,WHSmiths - Wood Green,Interserve Construction Ltd ( Paragon Div ),WHSmiths,10 High Road,Wood Green,London,N22 6HE,2016-10-04,
+213,229,Whittle Way,Interserve Construction Ltd ( Paragon Div ),Unit 1-5 Whittle way,Gatwick Distribution Centre,Crawley,Sussex,RH10 9RW,2016-09-30,
+214,231,Paragon - Bt Cheltenham,Interserve Construction Ltd ( Paragon Div ),Telephone Exchange,Oriel Road,Cheltenham,Gloucester,GL50 1BA,2016-10-13,2017-04-18
+215,232,Interserve- Berwick Street,Interserve Construction - Paragon Office,95-105 Berwick Street,,,London,W1F 0PH,2016-10-18,2020-07-31
+216,233,"Collins- University of London, Senate House",Collins Construction Ltd,University of London,Senate House,Malet Street,London,"WC1E 7HU (Entrance via 32 Russell Square, WC1E 5DN)",2016-09-05,2017-12-22
+217,234,155 Aztec West,Area,155 Aztec West,Almondsbury,Bristol,Avon,BS32 4UB,2016-10-24,
+218,235,Park City Plaza Hotel,Holmes Metrobuild,Park City Plaza Hotel,18-30 Lexham gardens,Kensington and Chelsea,London,W8 5JE,2016-10-24,
+219,236,Interserve Construction Ltd (Paragon div) - 13-19 Leinster Square,Interserve Construction Ltd ( Paragon Div ),13-19 Leinster Square,,,London,W2 4PR,2016-07-04,2020-02-29
+220,237,Paragon - 145 Oxford Street,Interserve Construction Ltd ( Paragon Div ),145 Oxford Street,access via berwick street,,London,W1D 2JD,2016-10-24,2017-09-29
+221,238,"Overbury- Horizon, Cambridge",Overbury Central,"Horizon, Building 8100",Cambridge Research Park,"Beach Road, Waterbeach",Cambridge,CB25 9PD,2016-10-26,
+222,240,Twyford Offices,Interserve Construction Ltd ( Paragon Div ),Interserve PLC,Ruscombe Park,Twyford,Reading,RG10 9JU,2016-11-04,
+223,241,"Interserve- The Hub, Material Store",Interserve Construction - Paragon Office,"The Hub, Material Store",Blyth Road,Hayes,Middlesex,UB3 1HA,2016-10-17,2018-04-30
+224,242,High Holburn,Interserve Construction Ltd ( Paragon Div ),"6th Floor, The Place",175 High Holburn,,London,WC1V 7AA,2016-11-07,
+225,243,Paragon - 3 Minster Court - Fit out,Interserve Construction Ltd ( Paragon Div ),3 Minster Court,Mincing Lane,,London,EC3R 7DD,2016-10-20,2018-05-08
+226,244,Paragon Project Divert,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+227,245,Paragon - Adelphi P3,Interserve Construction Ltd ( Paragon Div ),Levels 12 & 13 The Adelphi,1 to 11 John Adam Street,,London,WC2N 6HT,2016-09-26,2017-04-21
+228,246,Westferry House,Interserve Construction Ltd ( Paragon Div ),11 Westferry House,Westferry circus,,London,E14 4HD,2016-11-21,
+229,247,Apollo and Lunar House,Interserve Construction Ltd ( Paragon Div ),36 Wellesely Road,Croydon,,,CR9 3RR,2016-11-21,
+230,248,"SWAS- Curry's, Stockport",DSG Retail Plc (Currys),"Curry's, Unit 7 The Peel Centre",Great Portwood Street,,Stockport,SK1 2HD,2017-01-23,2017-02-03
+231,249,Purple Future-Hull,Interserve Construction Ltd ( Paragon Div ),3rd Floor,Norwich House,Savile Street,Hull,HU1 3ES,2016-11-23,2016-12-21
+232,250,The Shard Kiosk/View,Interserve Construction Ltd ( Paragon Div ),St Thomas Street,,,London,SE1 5RT,2016-11-24,
+233,251,Interserve- Kingston Academy,Interserve Construction - Paragon Office,Kingston Academy,Richmond Road,Kingston Upon Thames,Middlesex,KT2 5PE,2016-11-01,2018-11-30
+234,252,"Collins- University of London, Senate House (Strip Out.)",Collins Construction Ltd,,,,,,,
+235,253,Interserve - Kingston Academy - Strip out,Interserve Construction - Paragon Office,Kingston Academy,,,,,,
+236,254,Beeston Post office- Reporting only,Interserve Construction Ltd ( Paragon Div ),Mount Charles Road,Austell,,,,,
+237,255,Capital Tower - Strip out,Interserve Construction Ltd ( Paragon Div ),91 Waterloo Road,,,,,,
+238,256,Purple Future - Wakefield,Interserve Construction Ltd ( Paragon Div ),1st and 2nd Floor,Merchant Gate,1 Burgage Square,Wakefield,WF1 2QN,2016-12-08,
+239,257,Paragon - Bupa - 123 Chancery lane,Interserve Construction Ltd ( Paragon Div ),123 Chancery Lane,London,,,WC2A 1QH,2016-12-12,2017-04-03
+240,258,Battersea DO stategy Uplift,Interserve Construction Ltd ( Paragon Div ),202 Lavender Hill,,,London,SE11 1AA,2016-12-12,2016-12-16
+241,259,Gaumont & Acorn House Surgeries,Interserve Construction Ltd ( Paragon Div ),136 Meeting House Lane,,,London,SE15 2UA,2016-12-15,
+242,260,Interserve Construction Ltd ( Paragon Div ) - The Pithay,Interserve Construction Ltd ( Paragon Div ),All saints Street,,,Bristol,BS1 2NB,2017-01-04,2017-07-27
+243,261,Victoria Street Fit Out,Land Securities,,,,,,,
+244,262,Hewett Packard,Area,2 Kelvin Close,Birchwood,,Warrington,WA3 7PB,2016-12-20,
+245,263,Paragon- BMW Farnborough BACI,Interserve Construction Ltd ( Paragon Div ),Summit One,Summit Avenue,Farnborough,,GU14 0FB,2016-12-22,2017-03-27
+246,264,Interserve - Kings College School Wimbledon - Strip out,Interserve Construction - Paragon Office,,,,,,2016-07-08,2018-02-14
+247,265,Southwood - Strip out,Interserve Construction Ltd ( Paragon Div ),Southwood  Units 1 & 3,Southwood Business Park,Farnborough,,GU14 0NL,,
+248,266,Collins- Broadwick Street,Collins Construction Ltd,30 Broadwick Street,Soho,,London,W1F 8AF,2017-01-09,2017-04-18
+249,267,"Collins- Victoria Street, Level 2",Collins Construction Ltd,"100 Victoria Street, Level 2",,,London,SW1E 5JL,,
+250,268,"Collins- Victoria Street, Level 5",Collins Construction Ltd,"100 Victoria Street, Level 5",,,London,SW1E 5JL,,
+251,269,WHSmiths - Eastleigh,Interserve Construction Ltd ( Paragon Div ),Swan Centre,Loading Bay off Bleinham Road,Eastleigh,Southampton,SO50 5SF,2017-01-09,
+252,270,Hewlett Packard Bracknell,Area,Amen Corner,2nd Floor Cain Road,Bracknell,Berkshire,Rg12 1HN,2017-01-09,
+253,271,Paragon - Government Digital Services,Interserve Construction Ltd ( Paragon Div ),6th and 7th Floor,10 Whitechapel,High Street,London,E1 8DX,2017-01-16,2017-06-15
+254,272,"Overbury- No1 The Square, Cambridge",Overbury Central,No1 The Square,,,Cambridge,CB1 2GA,,
+255,273,"Collins- Elsinore House, Phase 2",Collins Construction Ltd,Elsinore House,77 Fulham Palace Road,,London,W6 8JA,2016-11-12,2017-05-31
+256,274,Capital Tower - E4 LTD,E4 Environmental Ltd,91 Waterloo Road,,London,,SE1 8RT,2017-01-19,
+257,275,Leinster Square - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+258,277,WHSmiths - Beeston Reporting only,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+259,278,Interserve- Kings College School Wimbledon,Interserve Construction - Paragon Office,Kings College School,Ridgeway Southside,Wimbledon Common,London,SW19 4TA,2016-07-04,2018-08-13
+260,279,*Winvic - Uxbridge,Winvic,,,,,,2017-08-02,2017-10-25
+261,280,Test 2,OTHER,Example,,,,EC2Y 9ST,2018-02-01,2019-05-10
+262,281,Test 3,Encore Environment Ltd,,,,,,,
+263,282,Test 4,Area,,,,,,,
+264,283,"Collins- TTSP Basement Office, Broad Street",Collins Construction Ltd,TTSP Basement Office,42 New Broad Street,,London,EC2M 1JD,,
+265,284,Collins- Lacon House,Collins Construction Ltd,84 Theobalds Road,,,London,WC1X 8RW,,
+266,285,Queensway,Bourne Capital,17 Queensway,,,London,W2 4QP,2017-02-01,
+267,286,Weir Road - Strip out data,Interserve Construction Ltd ( Paragon Div ),Unit 5 Weir Road,,Wimbledon,London,SW19 8UG,2017-01-11,2017-03-20
+268,287,Park City Plaza Hotel - Strip Out,Holmes Metrobuild,,,,,,,
+269,288,Purple Future - Halifax,Interserve Construction Ltd ( Paragon Div ),Westgate House,22-25 market Street,,Halifax,HX1 1PG,2017-02-07,2017-02-28
+270,289,Holmes Metrobuild- Lexham Gardens Block A,Holmes Metrobuild,,,,,,,
+271,290,Stephen Sproat,Interserve Construction Ltd ( Paragon Div ),10 Mint Road,Wallington,,Surrey,SM6 0TY,,
+272,291,Paragon - Apollo and Lunar House Phase 2,Interserve Construction Ltd ( Paragon Div ),36 Wellesely Road,,,Croydon,CR9 3RR,2017-02-01,2017-11-03
+273,292,"Interserve/Paragon- The Hub, Material Store (Strip Out)",Interserve Construction - Paragon Office,,,,,,,
+274,293,The Pithay - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+275,294,Project Ziggy - Strip out,Interserve Construction Ltd ( Paragon Div ),Ziggy Stardust,Kings Cross,,London,N1 9SQ,,
+276,295,Poultry - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+277,296,1 + 2 Minster Court - Strip out,Interserve Construction Ltd ( Paragon Div ),1 + 2 Mincing Lane,,,London,EC3R 7AA,,
+278,297,"One Hundred Partnerships- Dana Estate, Tonbridge",One Hundred Partnership,"Unit 12, Dana Estate",Transfesa Road,Paddock Wood,Kent,TN12 6UT,2017-02-23,2017-04-04
+279,298,Paragon - 2 Minster Court Rec,Interserve Construction Ltd ( Paragon Div ),2 Minster Court Reception,Mincing Lane,,London,EC3R 7AA,2017-02-23,2017-07-21
+280,299,"Paragon- Sony, Pencoed",Interserve Construction Ltd ( Paragon Div ),"Sony, Pencoed Technology Park",,,Pencoed,CF3 5HZ,2017-02-01,2018-02-01
+281,300,Paragon - EMI Archive Hayes,Interserve Construction Ltd ( Paragon Div ),EMI Archive,Dawley Road,Hayes,Middlesex,UB3 1HH,2017-03-02,2017-05-28
+282,301,Globe House,Interserve Construction Ltd ( Paragon Div ),89 Eccleston Square,,,London,SW1V 1PN,2017-03-07,2017-04-28
+283,302,"Overbury- Telephone House, Birmingham",Overbury Central,104 Newhall Street,,,Birmingham,B3 1JW,2017-03-20,2017-04-24
+284,303,BT Cheltenham - Strip out Data,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+285,304,Interserve Construction Ltd (Paragon div) - Science Gallery London,Interserve Construction Ltd ( Paragon Div ),Boland House,St Thomas Street,,London,SE1 9RT,2017-04-18,2018-10-09
+286,305,Interserve- Qatar Airways (strip out),Interserve Construction - Paragon Office,,,,,,,
+287,306,Apollo and Lunar - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+288,307,Royal Mail Battersea DO Phase 2 - Strip out,Interserve Construction Ltd ( Paragon Div ),202 Lavender Hill,,,London,SW11 1AA,2017-03-13,2017-04-24
+289,308,Globe House - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+290,309,"Paragon - Evercore - 1 Stanhope Gate - Reporting only, strip out",Interserve Construction Ltd ( Paragon Div ),1 Stanhope Gate,Mayfair,,London,W1K 1AF,2017-04-07,2017-06-29
+291,310,Royal Mail Delivery office,Interserve Construction Ltd ( Paragon Div ),East Horsley Delivery office,Ockham Road South,East Horsley,Leatherhead,KT24 6RU,2017-03-17,2017-03-17
+292,311,Collins- Soho Square,Collins Construction Ltd,"Manor House, 21 Soho Square",Soho,,London,W1D 4NR,2017-03-27,2018-05-31
+293,312,ADL- Vauxhall,ADL Drywall Group,30-60 South Lambeth Road,,Vauxhall,London,SW8 1RY,2017-03-24,2018-04-28
+294,313,Paragon- Longley Road,Interserve Construction Ltd ( Paragon Div ),181 Longley Road,,,London,SW17 9LE,2017-04-01,
+295,314,Overbury- Malvern,Overbury Central,Malvern Instruments,Enigma House,Grovewood Road,Malvern,WR14 1XZ,2017-03-30,2018-02-28
+296,315,Collins- 3 Cavendish Square,Collins Construction Ltd,3 Cavendish Square,,,London,W1G 0LB,2017-04-30,2018-04-01
+297,316,"5 Cobb Court, Margate",Paragon - Private,5 Cobb Court,,,Margate,CT9 1BZ,,
+298,317,Paragon - Soc Gen 14 St Georges Street,Interserve Construction Ltd ( Paragon Div ),14 St Georges Street,Mayfair,,London,W1S 1FH,2017-03-06,2017-06-30
+299,318,"Collins- Briset Street, strip out",Collins Construction Ltd,,,,,,,
+300,319,"Area Square - Hewlett Packard, Erskine, Glasgow",Area,Erskine Ferry Road,Bishopton,,Glasgow,PA7 5PP,2017-04-06,2017-05-31
+301,320,Area Square - Motorola Slough,Area,Charter Court,50 Windsor Road,,Slough,SL1 2EJ,2017-04-13,2017-07-04
+302,321,Royal Mail Battersea DO - Phase 2,Interserve Construction Ltd ( Paragon Div ),202 Lavender Hill,Battersea,,London,SW11 1AA,2017-04-10,
+303,322,Holmes Metrobuild - Lexham Gardens Block B,Holmes Metrobuild,Park City Grand Plaza Kensington Hotel,Lexham Gardens,,London,W8 5JE,,
+304,323,Collins- Devonshire Square,Collins Construction Ltd,6 Harrow Place,Devonshire Square,,London,EC2M 4YE,2017-04-12,2018-02-01
+305,324,Soc Gen St Georges Square - Strip out,Interserve Construction Ltd ( Paragon Div ),14 St Georges Street,,Mayfair,London,W1S 1FH,2017-03-17,
+306,325,"Holmes Metrobuild- Holiday Inn, Brentford",Holmes Metrobuild,"Holiday Inn, Commerce Road",Brentford,,London,TW8 8GA,2017-04-14,2017-04-27
+307,326,Overbury- Birmingham Business Park,Overbury Central,Birmingham Business Park,Solihull Parkway,Solihull,Birmingham,B37 7YN,2017-05-08,2017-07-17
+308,327,Paragon - Victory Services Club,Interserve Construction Ltd ( Paragon Div ),63-79 Seymour Street,,,London,W2 2HF,2017-05-22,2017-08-25
+309,328,Interserve- Berwick Street - Demo/Bulk Excavation. Strip out,Interserve Construction - Paragon Office,95-105 Berwick Street,,,London,W1F 0PH,,
+310,329,Collins- 123 Victoria Street,Collins Construction Ltd,123 Victoria Street,Westminster,,London,SW1E,,
+311,330,Overbury- 45 Church Street,Overbury Central,45 Church Street,,,Birmingham,B3 2RT,2017-04-24,2017-05-10
+312,331,Paragon - Southwood Unit 5,Interserve Construction Ltd ( Paragon Div ),Unit 5 Southwood Crescent,Southwood Business Park,Farnborough,Hampshire,GU14 0NL,2017-05-15,2017-08-07
+313,332,Collins- Shaftesbury Avenue strip out,Collins Construction Ltd,130 Shaftesbury Avenue,,,London,W1D 5EU,,
+314,333,"Collins- Lower James Street, strip out",Collins Construction Ltd,8-10 Lower James Street,,,London,W1F 9EL,,
+315,334,"Collins- 3 Cavendish Square, strip out",Collins Construction Ltd,3 Cavendish Square,,,London,W1G 0LB,,
+316,335,"Collins- Newport Place, strip out",Collins Construction Ltd,10 Newport Place,,,London,WC2H 7PR,,
+317,336,"Collins- Devonshire Square, strip out",Collins Construction Ltd,17 Devonshire Square,,,London,EC2M 4YE,,
+318,337,Collins- Guys Hospital,Collins Construction Ltd,Guys Hospital,Great Maze Pond,,London,SE1 9RT,,
+319,338,"Collins- Soho Square, strip out",Collins Construction Ltd,21 Soho Square,,,London,W1D 4NR,,
+320,339,"Overbury - University of Warwick, Coventry- Engineering Block",Overbury Central,University of Warwick Engineering Block,University of Warwick Campus,Library Road,Coventry,CV4 7AL,2017-05-29,2017-11-27
+321,340,Paragon - Adelphi Level 13 Finsbury,Interserve Construction Ltd ( Paragon Div ),1-11 John Adam Street,,,London,WC2N 6HT,2017-06-26,
+322,341,Area Square - Motorola Hemel Hempstead,Area,Unit 1 Chevron Ind Estate,Eaton Road,,Hemel Hempstead,HP2 7UB,2017-05-09,2017-06-16
+323,342,"Collins- 80-100, Victoria Street- DMS tickets strip out",Collins Construction Ltd,80-100 Victoria Street,,,London,SW1E 5JL,,
+324,343,Area Square - Motorola Airwaves Rugby,Area,Unit 4 Pelham Road,Central Park,,Rugby,CV23 0PD,2017-05-10,2017-06-16
+325,344,"Overbury- University of Warwick, Coventry- T-ERA",Overbury Central,University of Warwick,University of Warwick Campus,Library Road,Coventry,CV4 7AL,2017-06-05,2017-12-01
+326,345,Collins- High Holborn,Collins Construction Ltd,182-184 High Holborn,,,London,WC1V 7AP,2017-07-10,2018-10-18
+327,346,Collins- Epsom,Collins Construction Ltd,,,,,,,
+328,347,"Collins- The Gherkin, strip out",Collins Construction Ltd,The Gherkin,30 St Mary Axe,,London,EC3A 8EP,,
+329,348,"Collins- International House, St Katherine's Way",Collins Construction Ltd,,,,,,,
+330,349,Collins- Westferry Circus- DMS tickets strip out,Collins Construction Ltd,10 Westferry Circus,,,London,E14 4QP,,
+331,350,Paragon - The Edward Hyde Building,Interserve Construction Ltd ( Paragon Div ),38 Clarendon House,,,Watford,WD17 1JW,2017-05-08,2017-10-24
+332,351,Paragon - Exchange House,Interserve Construction Ltd ( Paragon Div ),Exchange House,12 Primrose Street,,London,EC2A 2ST,2017-05-29,2017-07-10
+333,352,Paragon - Societe Generale Bishops Square,Interserve Construction Ltd ( Paragon Div ),Bishop Square,,,London,E1 6AD,2017-05-29,2017-07-10
+334,353,*Paragon - Kaufman Financial Group,Interserve Construction Ltd ( Paragon Div ),Number one Minster court,Mincing Lane,,London,EC3R 7AA,2017-05-22,2017-06-19
+335,354,Paragon - London Business School - Reporting data only,Interserve Construction Ltd ( Paragon Div ),Regents Park,,,London,NW1 4SA,2017-03-18,
+336,355,Paragon - Greystar Spitalfields Twin Room Conversion 2017,Interserve Construction Ltd ( Paragon Div ),Nido tower,9 Frying Pan Alley,Spitalfields,London,E1 7HS,2017-07-10,2017-09-01
+337,356,Interserve Construction Ltd (Paragon Div)  - Virgin Active Kensington,Interserve Construction Ltd ( Paragon Div ),17a Old Court Place,Kensington,,London,W8 4PL,2017-07-03,2017-11-20
+338,357,Interserve Construction Ltd (Paragon div) - David LLoyd The Park Club,Interserve Construction Ltd ( Paragon Div ),East Acton lane,,,London,W3 7HB,2017-08-25,2018-03-19
+339,359,Overbury- Colmore Row,Overbury Central,55 Colmore Row,Entrance via Barwick Street,,Birmingham,B3 2NT,2017-05-27,
+340,360,Paragon - Picton Place,Interserve Construction Ltd ( Paragon Div ),5 - 6 Picton Place,,,London,W1U 1BL,2017-06-01,2017-09-08
+341,361,Collins- 111 Park Street- DMS tickets strip out,Collins Construction Ltd,111 Park Street,,,London,W1K 7JP,,
+342,363,"Collins - Tog Victoria, Victoria Train Station",Collins Construction Ltd,Victoria Train Station,1 Hudson Place,Victoria,London,SW1V 1JU,2017-06-05,2017-11-01
+343,364,*Interserve - Paragon - Dartford Primary Academy,Interserve Construction - Paragon Office,Dartford Primary Academy,,,,DA1,,
+344,365,Interserve - Paragon - Edward Hyde Building,Interserve Construction - Paragon Office,,,,,,2017-07-24,2018-01-18
+345,366,Paragon - Purple Future - Huddersfield,Interserve Construction Ltd ( Paragon Div ),Church House,17 Old Leeds Road,,Huddersfield,HD1 1SG,2017-06-12,2017-07-03
+346,367,Paragon- Southwood Strip out - Unit 5,Interserve Construction Ltd ( Paragon Div ),Unit 5 Southwood Business Park,,,Farnborough,GU14 0NL,2017-05-23,
+347,368,Collins- 38 Chancery Lane,Collins Construction Ltd,38 Chauncery Lane,,,London,WC2A 1EL,,
+348,369,Paragon - BT The point Paddington,Interserve Construction Ltd ( Paragon Div ),The Point,Paddington Basin,47 North Wharf Road,London,W2 1AF,2017-06-16,2017-10-30
+349,370,Paragon - Chapter Aldgate Summer Works,Interserve Construction Ltd ( Paragon Div ),Chapter Aldgate,35 Commercial Road,,London,E1 1LD,2017-06-20,
+350,371,"Collins- London Eye, DMS tickets strip out",Collins Construction Ltd,London Eye,Riverside Building,"County Hall, Westminster Bridge",London,SE1 7PB,2017-01-17,2017-01-18
+351,372,Collins- Radlett Street- DMS tickets strip out,Collins Construction Ltd,Radlett Street,,,London,WD7,,
+352,373,Collins- 130 Jermyn Street- DMS tickets strip out,Collins Construction Ltd,130 Jermyn Street,St James's,,London,SW1Y 4UR,,
+353,374,Collins- 4 Coleman Street,Collins Construction Ltd,4 Colemore Road,,,London,EC2R 5AR,2017-07-03,2017-09-11
+354,375,Interserve Construction Ltd (Paragon div) - 21 New Street,Interserve Construction Ltd ( Paragon Div ),21 New Street,Bishopsgate,,London,EC2M 4TP,2017-08-21,2018-09-03
+355,376,Paragon - Telent  Cody Road,Interserve Construction Ltd ( Paragon Div ),8 Cody Road,,Stratford,London,E16 4SR,2017-06-23,2017-06-30
+356,377,Paragon - 30 Cleveland Street - strip out,Interserve Construction Ltd ( Paragon Div ),30 Cleveland Street,,,London,W1T 4JD,2017-07-31,2018-04-30
+357,378,Private- Belgrave Boulevard,Encore Environment Ltd,247 Belgrave Boulevard,Mowmacre Hill Estate,,Leicester,LE4 2JG,,
+358,379,Collins- 123 Buckingham Palace Road,Collins Construction Ltd,123 Buckingham Palace Road,,,London,SW1W 9SH,2017-06-19,2017-12-20
+359,380,"Collins- SKD, International House,St Katherine's Way- DMS tickets, strip out",Collins Construction Ltd,International House,St Katherine's Way,,London,E1W 1LP,,
+360,381,"Holmes Metrobuild- Holiday Inn, Reading",Holmes Metrobuild,Holiday Inn,Basingstoke Road,Reading,Berkshire,RG2 0SL,2017-06-28,
+361,382,Overbury- Aqueous II,Overbury Central,Aqueous II,Aston Cross Business Park,50 Rocky Lane,Birmingham,B6 5RQ,2017-07-03,2017-11-10
+362,383,"Holmes Metrobuild- Holiday Inn, High Wycombe",Holmes Metrobuild,"M40, Jct. 4",Handycross,,High Wycombe,HP11 1TL,2017-06-30,2017-06-30
+363,384,Paragon - Bupa Cromwell Road,Interserve Construction Ltd ( Paragon Div ),164-178 Cromwell Rd,Kensington,,London,SW5 0TU,2017-07-10,2017-12-08
+364,385,Paragon - Unit 4000 Chancellor court,Interserve Construction Ltd ( Paragon Div ),Unit 4000 Chancellor Court,Oxford Business Park,Oxford,,OX4 2JY,2017-07-03,2017-11-06
+365,386,Paragon - Virgin Active Brighton car park enabling works,Interserve Construction Ltd ( Paragon Div ),Village Way,,,Brighton,BN1 9SG,2017-07-27,2017-11-16
+366,387,Chapter Aldgate - Strip out data,Interserve Construction Ltd ( Paragon Div ),35 Commercial Road,,,London,E1 1LD,2017-06-22,
+367,388,Paragon - City of London School for Girls,Interserve Construction Ltd ( Paragon Div ),St Giles Terrace,Barbican,,London,EC2Y 8BB,2017-07-10,2017-08-25
+368,389,Paragon - Telent Warwick,Interserve Construction Ltd ( Paragon Div ),Campbell house,Heathcote Way,Heathcote Business Park,Warwick,CV34 6TE,2017-06-26,2017-08-04
+369,390,"Overbury - Staffordshire University, Stoke On Trent",Overbury Central,Staffordshire University Cadman Building,College Road,,Stoke on Trent,ST4 2DE,2017-07-10,2017-09-29
+370,391,"Collins- 154 Harley Street, DMS tickets strip out",Collins Construction Ltd,154 Harley Street,Marylebone,,London,W1G 7LJ,,
+371,392,"Collins- Red Lion Square, DMS tickets strip out",Collins Construction Ltd,,,,,,,
+372,393,"Collins- The Gherkin, 9th Floor M&E Works- DMS tickets strip out",Collins Construction Ltd,,,,,,,
+373,394,"Collins- The Gherkin, 9th Floor, Tea Point- DMS tickets strip out",Collins Construction Ltd,,,,,,,
+374,395,"Collins- 123 Victoria Street, DMS tickets strip out",Collins Construction Ltd,,,,,,,
+375,396,Collins- Charing Cross Road,Collins Construction Ltd,51-79 Charing Cross Road,,,London,WC2H 0NE,,
+376,397,"Collins- 38 Chancery Lane, strip out",Collins Construction Ltd,,,,,,,
+377,398,"Project Ziggy - Fit out PSTG Logistics, strip out",Interserve Construction Ltd ( Paragon Div ),,,,,,,
+378,399,Interserve- Christs School,Interserve Construction,,,,,,,
+379,400,Area- Dunstable,Area,Whitbread PLC,Houghton Gall Business Park,Porz Avenue,Dunstable,LU5 5XE,2017-08-07,2017-12-16
+380,401,Collins- Finsbury Pavement,Collins Construction Ltd,,,,,,,
+381,402,Paragon - Camberley Mall 1A Main Works,Interserve Construction Ltd ( Paragon Div ),5-6 The Square,Camberley,,,GU15 3SL,2017-07-21,2017-10-23
+382,403,Interserve Construction Ltd (Paragon div) - Hapimag-Lancaster Gate,Interserve Construction Ltd ( Paragon Div ),23-26 Lancaster gate,London,,,W2 3LP,2017-07-24,2018-06-04
+383,404,"Holmes Metrobuild - Lexham Gardens, Block C",Holmes Metrobuild,18-26 Lexham Gardens,,Kensington,London,W8 5JE,2018-01-08,2018-02-09
+384,406,Generic REMP,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+385,407,Collins- 111 Buckingham Palace Road- DMS tickets strip out,Collins Construction Ltd,111 Buckingham Palace Road,,,London,SW1W 0SR,,
+386,408,Paragon - Rotherwick House,Interserve Construction Ltd ( Paragon Div ),3 Thomas More Street,,,London,E1W 1YZ,,
+387,409,"Area Sq- The Urban Building, Slough",Area,The Urban Building,Albert Street,,Slough,SL1 2BU,,
+388,410,ADL- Blackwall Reach,ADL Drywall Group,,,,,,,
+389,411,*Paragon- Hapimag - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+390,412,Collins- Briset Street,Collins Construction Ltd,12-14 St Johns Square,,,London,EC1M 4HD,2017-08-07,2018-07-02
+391,413,Collins - 123 Buckingham Palace Road,Collins Construction Ltd,123 Buckingham Palace Road,,,London,SW1W 9SR,2017-08-07,2028-12-22
+392,414,Collins- Coronet Street,Collins Construction Ltd,Coronet Street,,,London,N1 6HD,2017-08-16,2018-12-10
+393,415,Vortex- New Zealand House,Vortex Interiors Ltd,New Zealand House,"80 Haymarket, St James's",,London,SW1Y 4TW,2017-07-26,2017-09-15
+394,416,"Area Sq- Shooting Star Chase, Guildford",Area,Shooting Star Chase,Old Portsmouth Road,Arthington,Guildford,GU3 1LP,,
+395,417,"Vortex- New Zealand House, strip out",Vortex Interiors Ltd,New Zealand House,80 Haymarket,St James,London,SW1Y 0LA,2017-07-26,2017-09-15
+396,418,Collins- Princelet Street,Collins Construction Ltd,42-46 Princelet Street,,,London,E1 5LP,2017-08-21,2018-08-21
+397,419,"Overbury- Building 500, Norwich",Overbury Central,Building 500,Broadlands Business Park,,Norwich,NR7 0WG,2017-08-29,2017-10-23
+398,420,Paragon - Project Forest,Interserve Construction Ltd ( Paragon Div ),61 London Road,Redhill,,Surrey,RH1 1NA,2017-09-18,2017-12-04
+399,421,Paragon -Science Museum Acoustic L3,Interserve Construction Ltd ( Paragon Div ),"Wonderlab, Level 3",Exhibition Road,,London,SW7 2DD,2017-09-04,2017-10-13
+400,422,Paragon - 35 Great Smith Street,Interserve Construction Ltd ( Paragon Div ),2nd Floor 35 Great Smith Street,,Westminster,London,SW1P 3BQ,2017-08-09,2017-11-13
+401,423,Paragon - Clive House,Interserve Construction Ltd ( Paragon Div ),70 Petty France,,Westminster,London,SW1H 9EX,2017-10-26,2018-01-25
+402,424,Paragon- Rotherwick House - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+403,425,Paragon- Oxford Street - Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+404,426,Paragon Private- Village Hall Hagbourne,Paragon - Private,Village Hall,53 Main Road,East Hagbourne,Didcot,OX11 9LR,2017-08-14,2017-08-16
+405,427,Interserve Construction Ltd (Paragon div)- Project Phoenix - 25 Cabot Square,Interserve Construction Ltd ( Paragon Div ),25 Cabot Square,Canary Wharf,,London,E14 4QA,2017-08-25,2019-01-31
+406,428,Collins- Notting Hill Gate,Collins Construction Ltd,,,,,,,
+407,429,*Project 7- QEOP,Project7 Construction Ltd,Queen Elizabeth Olympic Park,,,London,E20 2ST,2017-07-31,2018-02-18
+408,430,Paragon - 151 Wardour Street,Interserve Construction Ltd ( Paragon Div ),151 Wardour Street,,Soho,London,W1F 8WE,2017-08-23,2017-12-15
+409,431,Interserve Construction Ltd (Paragon div)- AELTC courtside and Debentures Entrance,Interserve Construction Ltd ( Paragon Div ),Centre court Complex,Church Road,Wimbledon,London,SW19 5AE,2017-08-29,2018-03-02
+410,432,"Area- Motorola Rugby, Enabling Works",Area,1-2 Bailey Road,Central Park,,Rugby,CV23 0PD,2017-09-05,2018-03-21
+411,433,Collins- Emblem House,Collins Construction Ltd,Emblem House,27 Tooley Street,,London,SE1 2PR,2017-09-04,
+412,434,Paragon - Phase 20 Tolworth,Interserve Construction Ltd ( Paragon Div ),Unit 2 Oakcroft Road,Tolworth,Chessington,Surrey,KT9 1RH,2017-09-23,2017-12-08
+413,435,Paragon - Phase 20 Crawley,Interserve Construction Ltd ( Paragon Div ),Unit 3 & 5 Lancaster Court,Spindle Way,Crawley,West Sussex,RH10 1TG,2017-09-23,2017-12-08
+414,436,Paragon - Battersea Delivery Office,Interserve Construction Ltd ( Paragon Div ),200B Lavender Hill,,Battersea,London,SW11 1JA,2017-09-04,2017-10-16
+415,437,Paragon - EBRD 2nd Floor refurbishment,Interserve Construction Ltd ( Paragon Div ),175 Bishopsgate Square,Exchange Square,,London,EC2A 2JN,2017-08-29,2017-12-22
+416,438,Interserve Construction Ltd (Paragon div) - Framestore,Interserve Construction Ltd ( Paragon Div ),28 Chancery Lane,,,London,WC2A 1LF,2017-08-29,2018-01-15
+417,439,Overbury- Livery Place,Overbury Central,Livery Place,Livery Street,,Birmingham,B3 2PB,2017-09-06,2017-09-06
+418,440,Interserve Construction Limited (Paragon Div )  - Edward Hyde Building,Interserve Construction Ltd ( Paragon Div ),38 Clarendon Road,,,Watford,WD17 1JW,2017-09-04,2017-12-14
+419,441,Unit 4000 Chancellor Court - strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+420,442,Roker- 9 The Quadrant,Roker Group,9 The Quadrant,,,Richmond upon Thames,TW9 1BP,2017-09-05,
+421,443,Paragon - Science Museum Group Entrance,Interserve Construction Ltd ( Paragon Div ),Exhibition Road,,,London,SW7 2DD,2017-08-21,2017-09-15
+422,444,BT the Point Paddington Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+423,446,"Private- 12 Wellingborough Road, Sywell",Encore Environment Ltd,"The Cottage Hall, 12 Wellingborough Road",Sywell,,Northamptonshire,NN6 0FB,,
+424,447,*102 Petty France EACS - Tender,Interserve Construction Ltd ( Paragon Div ),102 petty France,,,London,SW1H 9AJ,2018-02-26,2018-05-21
+425,448,"Holmes Metrobuild- Deptford High Street, Snooker Hall-Demo Phase",Holmes Metrobuild,197 - 199 Deptford High Street,,,London,SE8 3NT,,
+426,449,Paragon - MDR - High Holborn,Interserve Construction Ltd ( Paragon Div ),246 High holborn,Westone House,,London,WC1V 7EX,2017-09-21,2018-04-27
+427,450,*Winvic - Motherwell,Winvic,Lagta House,2 Woodside,Holytown,Motherwell,ML1 4XL,2017-10-02,2018-01-08
+428,451,Heston Health Centre,Interserve Construction - Paragon Office,25 Cranford Lane,,Hounslow,London,,,
+429,452,Paragon - Project Phoenix Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+430,453,Overbury- Richard Crossman Building,Overbury Central,Richard Crossman Building,Jorden Well,,Coventry,CV1 5RW,2017-09-25,2017-11-03
+431,454,*Mount Pleasant Mail Centre - Tender,Interserve Construction Ltd ( Paragon Div ),Farringdon Road,,,London,EC1A 1BB,2017-10-05,2018-11-16
+432,455,"Overbury- 3M, Loughborough",Overbury Central,Building 47,Charnwood Campus,East Entrance,Loughborough,LE11 5RB,2017-10-09,2018-02-22
+433,456,"Overbury- The Lakes, Northampton",Overbury Central,"Century House, 1 The Lakes",Bedford Road,,Northampton,NN4 7SJ,2017-10-05,2017-12-08
+434,457,*Kajima- 55 Moorgate,Kajima,55 Moorgate,,,London,EC2R 6PA,,
+435,458,*Interserve- Allen Edwards Primary School,Interserve Construction - Paragon Office,Allen Edwards Primary School,Studley Road,Stockwell,London,SW4 6RP,2018-01-08,
+436,459,Paragon - Unit 7D Heston Centre,Interserve Construction Ltd ( Paragon Div ),International Avenue,,,Hounslow,TW5 9NJ,2017-10-11,2017-12-31
+437,460,Interserve Construction Ltd (Paragon div)- Science Museum Medicine Gallery,Interserve Construction Ltd ( Paragon Div ),Exhibition Road,South Kensington,,London,SW7 2DD,2017-11-06,2019-04-01
+438,461,Paragon - KIA GWR day 2,Interserve Construction Ltd ( Paragon Div ),Kia Motors,963 Great Western Road,Brentford,,TW8 9AU,2017-09-29,2017-11-03
+439,462,Teddington School,Interserve Construction - Paragon Office,Broom Road,,,Teddington,TW11 9PJ,2013-11-01,2014-08-31
+440,463,*V & A Photography Gallery - tender,Interserve Construction Ltd ( Paragon Div ),Cromwell Road,Knightsbridge,,London,SW7 2RL,2017-11-23,2018-04-23
+441,464,Holmes Metrobuild- Canterbury,Holmes Metrobuild,,,,,,,
+442,465,*QOB- Octavia House,QOB Interiors,235-241 Union Street,,,London,SE7 0LR,,
+443,466,Marstons- Various,Marstons,,,,,,,
+444,467,"Knight Harwood- Kings College School, Wimbledon",Knight Harwood,,,,,,,
+445,468,Paragon - Grant Thornton International,Interserve Construction Ltd ( Paragon Div ),20 Fenchurch Street,,,London,EC3M 3AU,2017-11-13,2017-12-01
+446,469,Interserve Construction Ltd (Paragon div) - AB Hotels Sopwell House,Interserve Construction Ltd ( Paragon Div ),Sopwell House Hotel,Cottonmill Lane,St Albans,Herts,AL1 2HQ,2017-11-06,2019-02-04
+447,470,Interserve Construction Ltd (Paragon div) - Southern House,Interserve Construction Ltd ( Paragon Div ),Wellesley Grove,,,Croydon,CR0 1XG,2017-12-07,2018-08-31
+448,471,"Overbury- 55 Colmore Row, Birmingham",Overbury Central,55 Colmore Row,,,Birmingham,B3 2AA,,
+449,472,Paragon - Science Gallery - Floor Strip out project,Interserve Construction Ltd ( Paragon Div ),Boland House,St Thomas Street,,London,SE1 9RT,2017-10-27,2017-11-08
+450,473,Private- Abingdon,Paragon - Private,11 St Johns Row,High Street,Long Wittenham,"Abingdon, Oxon",OX14 4QG,2017-11-03,2017-11-06
+451,474,"Overbury- The Mailbox, Phase 3",Overbury Central,The Mailbox,Severn Street,,Birmingham,B1 1RS,2018-01-08,2018-08-27
+452,475,"Overbury- IHG, Burton On Trent",Overbury Central,IHG,First Ave,,Burton-on-Trent,DE14 2WB,2018-03-28,2018-10-05
+453,476,"Private- East Hagbourne, James Bowden",Verity Interiors,6 Blewbury Road,East Hagbourne,Didcot,Oxon,OX11 9LF,2017-11-10,2017-11-13
+454,477,Paragon- Oakdene Road,Interserve Construction Ltd ( Paragon Div ),26 Oakdene Road,,,Redhill,RH1 6BT,2017-11-09,
+455,478,Overbury- Birmingham University,Overbury Central,The University of Birmingham,R19 Education Building,Edgbaston,Birmingham,B15 2TT,2017-11-10,2017-11-10
+456,479,Paragon - Head Office,Interserve Construction Ltd ( Paragon Div ),111 Old Broad Street,,,London,EC2N 1AP,,
+457,480,Paragon -21 New street Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+458,481,*ADL- Lea Bridge Road,ADL Drywall Group,,,Lea Bridge Road,London,E10,,
+459,482,*Holmes Metrobuild- Seething Lane,Holmes Metrobuild,2 Seething Lane,,,London,EC3N 4AT,2018-01-01,2018-04-30
+460,483,*Paragon - AELTC Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+461,484,*British Land- various,Bourne Capital,,,,,,,
+462,485,Knight Harwood- 56-64 Moorgate,Knight Harwood,,,,,,,
+463,486,Overbury- Baker Hicks,Overbury Central,Wireless House,Gallows Hill,,Warwick,CV34 6DD,2017-11-20,2018-02-09
+464,487,Corley & Woolley,Corley & Woolley,,,,,,,
+465,488,*Interserve- Greystar Spitalfields,Interserve Construction - Paragon Office,,,,,,,
+466,489,Area- Staines,Area,Strata,1 Bridge Street,,Staines,TW18 4TP,2017-11-20,2017-12-08
+467,491,Interserve Construction Ltd (Paragon div) - Petty France - Phase 1,Interserve Construction Ltd ( Paragon Div ),102 Petty France,,,London,SW1H 9AJ,2017-12-01,2018-05-07
+468,492,Overbury- Central Boulevard,Overbury Central,1 Central Boulevard,Life Valley Business Park,,Solihull,B90 8BG,2017-12-04,2018-01-28
+469,493,"Farrans - Parliament Hill School, LaSWAP",Farrans,Highgate,,,London,NW5 1RL,2018-01-10,2020-11-02
+470,494,*Buckingham Group- Ellesmere Port,Buckingham Group,,,,,,,
+471,495,*Styles & Wood,Styles & Wood,,,,,,,
+472,496,*Morgan Sindall,Morgan Sindall,,,,,,,
+473,497,*PAG,PAG,,,,,,,
+474,498,*Kier,Kier,,,,,,,
+475,499,Paragon - EY Reading - reporting only,Interserve Construction Ltd ( Paragon Div ),"5th/6th Floor, Apex Plaza",Forbury Road,Reading,,RG1 1YE,2017-09-15,2017-12-11
+476,501,*Paragon - Medius House,Interserve Construction Ltd ( Paragon Div ),2 Sheraton Street,,Soho,London,W1F 8YA,2018-01-15,2018-07-10
+477,502,Area- Leatherhead,Area,Sungard,17 Mole Valley Business Park,Leatherhead,Surrey,KT22 7BA,2018-01-09,2018-04-03
+478,503,*Paragon - Anadarko,Interserve Construction Ltd ( Paragon Div ),"Level 7, Nova North",79 buckingham Palace Road,Westminster,London,SW1W 0AJ,2018-01-22,2018-05-11
+479,504,Overbury- Notting Hill Gate,Overbury Central,,Notting Hill Gate,,London,W11 3HP,,
+480,505,Interserve- Bayswater Road,Interserve Construction - Paragon Office,154 Bayswater Road,,,London,W2 4HP,2018-01-15,2021-08-31
+481,506,*Project7- Islington,Project7 Construction Ltd,49-59 Old Street,Islington,,London,EC1V 9HX,2018-03-01,2019-03-01
+482,507,Area- Greenwich,Area,New Chapter Quay,Unit C1-C5,Greenwich,London,SE10 9DD,2018-01-05,2018-05-03
+483,508,"Overbury- Tarmac, Leicester",Overbury Central,Tarmac,Granite Way,Syston,Leicester,LE7 1PL,2018-01-05,2018-08-01
+484,509,"*Logan Construction- Heatherwood Hospital, Block 40",Logan Construction,Heatherwood Hospital,London Road,Ascot,Berkshire,SL5 8AA,2018-01-04,2018-08-02
+485,510,*McGoff Construction Ltd- London,McGoff Construction Ltd,Cannon Green Building,27 Bush Lane,,London,EC4R 0AN,2017-08-08,2017-10-31
+486,511,*McGoff Construction- Manchester,McGoff Construction Ltd,,,,Manchester,,,
+487,512,"Overbury- Birmingham University, Science Lab",Overbury Central,The University of Birmingham,Haworth Science Lab,Edgbaston Campus,Birmingham,B15 2TT,2018-01-17,2018-04-17
+488,513,Area- Reading,Area,Kennet Place,121 Kings Road,,Reading,RG1 3ES,2018-01-15,2018-03-29
+489,514,"*Quest Interiors - FERA, York",Quest Interiors,FERA- National Agri-food Innovation Campus,Sand Hutton,,York,YO41 1LZ,2017-03-01,2017-07-01
+490,515,Paragon -Osbourne Clarke - Enabling Works,Interserve Construction Ltd ( Paragon Div ),One London Wall,,,London,EC2Y 5EB,2018-01-14,2018-01-21
+491,516,Interserve Construction Ltd (Paragon div) - The Wallace Collection,Interserve Construction Ltd ( Paragon Div ),The Wallace Collection,Hertford House,Manchester Square,London,W1U 3BN,2018-01-22,2018-05-09
+492,517,"Interserve- Project Neptune, Spitalfields",Interserve Construction - Paragon Office,9 Frying Pan Alley,Spitalfields,,London,E1 7HS,2018-01-24,2018-09-09
+493,518,"Overbury - National Grid, Warwick",Overbury Central,"Second Floor, Telent Building Point 3",Opus 40 Business Park,Haywood Road,Warwick,CV34 5AH,2018-01-30,2018-03-16
+494,519,Interserve Construction Ltd (Paragon div) - Bupa Care Home - Haywards Heath,Interserve Construction Ltd ( Paragon Div ),Downlands Park,Bolnore Farm Lane,Haywards Heath,East sussex,RH16 4BQ,2018-01-31,2018-04-30
+495,520,Interserve construction Ltd ( Paragon Div ) - L & Q Stratford,Interserve Construction Ltd ( Paragon Div ),East Thames and L & Q,29-35 West Ham Lane,Stratford,London,E15 4PH,2018-02-24,2018-04-15
+496,521,Holmes Metrobuild- Clerkenwell Green,Holmes Metrobuild,Clerkenwell House,45 Clerkenwell Green,,London,EC1R 0EB,2018-02-16,2018-08-20
+497,522,Farrans - William Ellis School,Farrans,Highgate Road,,,London,NW5 1RN,,
+498,523,"Interserve Construction Ltd (Paragon div) - Addison Lee, The Point",Interserve Construction Ltd ( Paragon Div ),4th Floor,The Point Paddington,North Wharf Road,Paddington,W2 1AF,2018-07-30,2018-11-05
+499,524,Interserve offices,Interserve Construction - Paragon Office,Dolphin Bridge House,Rockingham Road,,Uxbridge,UB8 2XL,2018-02-26,2018-02-28
+500,525,CSB Logistics - Texas Instruments,CSB Logistics,Texas Instruments,250 South Oak Way,Green Park,Reading,RG2 6UG,2018-02-23,2018-02-26
+501,526,"Overbury - 1 Central Boulevard, Phase 2",Overbury Central,1 Central Boulevard,Blyth Valley Business Park,Solihull,Birmingham,B90 8BG,2018-02-26,
+502,527,Interserve Construction Ltd (Paragon div) - Government Digital Services- Phase 2,Interserve Construction Ltd ( Paragon Div ),6th and 7th Floor,10 Whitechapel,High Street,London,E1 8DX,2018-03-12,2018-05-14
+503,528,"Project 7 Construction - Apartments 35.01 & 36.01, One The Elephant",Project7 Construction Ltd,One The Elephant,1 Gabriel Walk,Elephant & Castle,London,SE1 6FB,2018-03-08,2019-11-30
+504,529,Farrans - Brentwood Town Hall,Farrans,Ingrave Road,,,Brentwood,CM15 8AY,2018-03-05,2019-03-08
+505,530,"Overbury- Staffordshire Uni, Stoke",Overbury Central,Staffordshire Uni,Science Block,Leek Road,Stoke On Trent,ST4 2DF,2018-03-08,2018-04-11
+506,531,*Paragon - 56-60 Conduit Street,Interserve Construction Ltd ( Paragon Div ),56-60 Conduit Street,Mayfair,,London,W1S 2YZ,,
+507,532,*Paragon - National Grid House,Interserve Construction - Paragon Office,National Grid House,Warwick Technology Park,Gallows Hill,Warwick,CV34 6UW,,
+508,533,*Inspira Property- SEGRO,OTHER,,,,,,,
+509,534,Area- Leonardo Lincoln,Area,Units 2 and 3,Alpha Court,Kingsley Road,Lincoln,LN6 3TA,2018-04-09,2018-07-13
+510,535,Interserve Construction Ltd (Paragon div) - Camberley Mall Phase 2,Interserve Construction Ltd ( Paragon Div ),5 - 6  The Square,Camberley,,Surrey,GU15 3SL,2018-03-12,2018-11-26
+511,536,Interserve Construction Ltd (Paragon Div ) - Westminster Fire Station,Interserve Construction Ltd ( Paragon Div ),4 Greycoat Place,,Westminster,London,SW1P 1BN,2018-05-29,2021-03-31
+512,537,Interserve Construction Ltd (Paragon div) - Sopwell House Strip out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+513,538,Project 7- Pavilion Road,Project7 Construction Ltd,23 Pavilion Road,,Knightsbridge,London,SW1X 0HD,2018-03-19,2018-06-25
+514,539,Area- Basingstoke,Area,Genus PLC,"First Floor, Matrix House",Basing View,Basingstoke,RG21 4DZ,2018-04-06,2018-04-06
+515,540,"Overbury- Birmingham University, School of Education",Overbury Central,The University of Birmingham,School of Education R19,Edgbaston Campus,Birmingham,B15 2TT,2018-03-23,2018-05-09
+516,541,"Overbury- The Lakes, Northampton. (WC Works)",Overbury Central,"Century House, 1 The Lakes",Bedford Road,,Northampton,NN4 7SJ,,
+517,542,"Overbury- Aqueous II, Phase 2",Overbury Central,Aqeuous II,Aston Cross Business Park,50 Rocky Lane,Birmingham,B6 5RQ,2018-04-04,2018-06-11
+518,543,Holmes Metrobuild- Winchmore Hill,Holmes Metrobuild,843-845 Green Lanes,Winchmore Hill,,London,N21 2RX,2018-04-11,
+519,545,Project 7- Ruislip Lido,Project7 Construction Ltd,Ruislip Lido,Reservoir Road,,Ruislip,HA4 7TY,2018-01-22,2018-05-29
+520,546,* Holmes Metrobuild- White Lodge Medical Centre,Holmes Metrobuild,105-109 Chase Side,,Enfield,London,EN2 6NL,2018-05-14,2019-04-19
+521,547,*Cosmur - Elizabeth House,Cosmur Construction,Elizabeth House and Cornerstone House,Duke Street,,Woking,GU21 5AS,2018-02-11,2020-02-11
+522,548,Interserve Construction Ltd (Paragon div)- 3 Minster Court Phase 2 works,Interserve Construction Ltd ( Paragon Div ),3 Minster Court,Marks Lane,,London,EC3R 7DD,2018-04-16,2018-07-09
+523,549,*Square One Construction - Harwoods Jaguar Land Rover,Square One Construction,Brighton Road,,Coulsdon,Surrey,CR5 3EA,2018-02-01,2018-08-31
+524,550,Project 7- York Road,Project7 Construction Ltd,23 York Road,,,Camberley,GU15 4HS,2018-04-25,
+525,551,"Farrans- Parliament Hill School, Teaching Block",Farrans,Parliament Hill School,Teaching Block,Highgate,London,NW5 1RL,2018-01-10,2020-11-02
+526,552,"Overbury- Beiersdoft, Trinity Park",Overbury Central,"Beiersdoft, Trinity Central",Trinity Park,"Bickenhill Lane, Solihull",Birmingham,B37 7ES,2018-04-26,2018-07-25
+527,553,Interserve Construction Ltd (Paragon div) - Camberley Shopping Mall Phase 2 Strip Out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+528,554,*Collins- King's House,Collins Construction Ltd,King's House,36 King's Street,,London,EC2V 8BB,,
+529,555,Overbury- Overbury Head Office,Overbury Central,207 Fort Dunlop,Fort Parkway,,Birmingham,B24 9FD,2018-05-02,2018-05-02
+530,556,"Area- Units 2&3 Millars Business Park, Wokingham",Area,Units 2&3 Millars Business Park,Fishponds Close,,Wokingham,RG41 2TZ,2018-05-01,2018-07-24
+531,557,Blackstone - Devon House,Interserve Construction Ltd ( Paragon Div ),58 St Katharines Way,St Katharines Docks,,London,E1W 1LA,2018-07-02,2019-04-18
+532,558,Project 7- London Stadium,Project7 Construction Ltd,South Compound,Marshgate Lane,Stratford,London,E15 2NH,2018-05-04,
+533,559,"Area- Vodafone, Smale House, London (Phase 1)",Area,"Vodafone, Smale House",114 Great Suffolk Street,,London,SE1 0BE,2018-05-21,2018-10-19
+534,560,*Balfour Beatty- Ecclesall Infant School,Balfour Beatty,Ecclesall Infant School High,Storrs Road,,Sheffield,S11 7LG,2017-09-01,2018-07-01
+535,561,"*Fortem- Bristol Grove, Exeter Road, Parkway South, Winchester Avenue",Fortem,"4-29 Bristol Grove, 4-18 Exeter Road, 6-12 Parkway South. 4-18 and 24-30 Winchester Avenue",Doncaster,,South Yorkshire,DN2 4JG,2017-04-01,2018-10-01
+536,562,"Collins- Southwark Street, Phase 2",Collins Construction Ltd,61 Southwark Street,,,London,SE1 0HL,2018-01-27,2018-06-15
+537,563,Area- Reading Uni,Area,Reading Uni- Reading Scientific Services Ltd,"Reading Science Centre, Whiteknights Campus",Pepper Lane,Reading,RG6 6LA,2018-05-11,2018-08-31
+538,564,Interserve Construction Ltd (Paragon div) - Bupa Cromwell Enabling Works,Interserve Construction Ltd ( Paragon Div ),162-174 Cromwell Road,,,London,SW5 0UT,2018-04-30,2018-06-01
+539,566,Tower Demolition - Lancer Square,Tower Demolition,Lancer Square,Kensington,,London,W8 4EH,2018-09-03,2020-09-07
+540,567,Rhino Interiors Group- Marel Colchester,Rhino Interiors Group,"Marel, Wyncolls Road",Severalls Industrial Park,,Colchester,CO4 9HW,2017-11-01,2018-07-01
+541,568,*Paragon- Osborne Clarke,Paragon - Private,Osborne Clarke,One London Wall,,London,EC2Y 5EB,2018-07-06,2018-08-10
+542,569,Paragon - RPS - Lambeth High Street,Interserve Construction Ltd ( Paragon Div ),1 Lambeth High Street,,,London,SE1 7JN,2018-05-19,2018-05-19
+543,570,*Baxall- 20 Upperton Road,Baxall,20 Upperton Road,Eastbourne,,East Sussex,BN21 1EU,2017-04-05,2017-10-05
+544,571,"*Balfour Beatty- Bobby Moore Academy, Primary School",Balfour Beatty,The Olympic Stadium,Stadium Island,Stratford,London,E15 1BB,2016-12-23,2018-09-01
+545,572,*McGoff- Downtown Woden Street,McGoff Construction Ltd,Woden Street,Salford,,Greater Manchester,M5 4UU,2017-04-01,2021-04-01
+546,573,Interserve Construction Ltd (Paragon div) - 102 Petty France CPS works,Interserve Construction Ltd ( Paragon Div ),102 Petty France,,,London,SW1H 9AJ,2018-05-14,2018-08-27
+547,574,"Paragon- Axis, The Scalpel",Interserve Construction Ltd ( Paragon Div ),52 Lime Street,,,London,EC3M 7AF,,
+548,575,Overbury- Yorke House,Overbury Central,Yorke House,Arleston Way,Solihull,Birmingham,B90 4LH,2018-05-21,2018-08-10
+549,576,Area- Bernard Street,Area,40 Bernard Street,Bloomsbury,,London,WC1N 1LE,2018-05-23,
+550,577,Project 7- QEOP,Project7 Construction Ltd,Queen Elizabeth Olympic Park,Marshgate Lane,,London,E15 2NH,,
+551,578,* Bowmer & Kirkland- Derby Pool,Bowmer & Kirkland,Former Moorways Sports Complex,Moorways Lane,Derby,Derbyshire,DE24 9HY,2018-06-18,2022-06-18
+552,579,*Bowmer & Kirkland- Ark Pioneer Academy,Bowmer & Kirkland,Former Underhill Stadium,Camrose Avenue,"Barnet Lane, Edgware",Middlesex,HA8 6AG,2018-03-01,2019-12-01
+553,580,Interserve Construction Limited (Paragon Div) - BT Teleport,Interserve Construction Ltd ( Paragon Div ),Pier Road,,North Woolwich,London,E16 2JJ,2018-06-04,2018-11-07
+554,581,"Cobra- St George's House, Wimbledon",Cobra Projects,St George's House,St Georges Road,,Wimbledon,SW19 4DR,,
+555,582,Area- Liverpool,Area,The Watson Building,4 Renshaw Street,,Liverpool,L1 2SA,2018-06-11,2018-08-20
+556,583,Holmes Technical Services - Woronzow Rd,Holmes Metrobuild,34 Woronzow Rd,,,London,NW8 6AT,,
+557,584,Holmes Metrobuild- Green's Lane,Holmes Metrobuild,843 Green Lanes,,,London,N21 2RX,2018-06-05,2018-11-01
+558,585,Bouygues - Premier Inn Bedford,Bouygues,Premier Inn,Bedford Riverside,Horne Lane,Bedford,MK40 1AS,2018-07-02,2018-07-27
+559,586,Interserve Construction Limited ( Paragon Div )- DWP Broad Street,Interserve Construction Ltd ( Paragon Div ),DWP Centennial House,100 Broad Street,,Birmingham,B15 1AU,2018-06-13,2018-08-01
+560,587,Interserve Construction Limited ( Paragon Div ) - Spitalfields,Interserve Construction Ltd ( Paragon Div ),Nido Tower,9 Frying Pan Alley,Spitaflields,London,E1 7HS,2018-07-09,2018-08-31
+561,588,Farrans- Parliament Hill School (Main School),Farrans,Parliament Hill School,Highgate,,London,NW5 1RL,,
+562,589,"Overbury- Birmingham Uni, Mechanical and Civil Engineering",Overbury Central,Mechanical and Civil Engineering,Haworth Building,Egbaston Campus,Birmingham,B15 2TT,2018-06-15,2018-09-28
+563,590,Cobra- Dufferin Street,Cobra Projects,1-3 Dufferin Street,,,London,EC1Y 8NA,,
+564,591,Interserve Construction (Paragon Div) BT Judd Street,Interserve Construction Ltd ( Paragon Div ),123 Judd Street,Kings Cross,,London,WC1H 9NP,2018-06-26,2018-08-13
+565,592,*Holmes Metrobuild- Counting House,Holmes Metrobuild,Counting House,53 Tooley Street,First Floor,London,SE1 2QN,2018-07-26,2018-08-16
+566,593,Interserve Construction (Paragon Div) Greystar Spitalfields,Interserve Construction Ltd ( Paragon Div ),Nido Tower,Spitalfields,9 Frying Pan Alley,London,E1 7HS,2018-07-09,2018-08-31
+567,594,Interserve Construction Ltd ( Paragon Div) BT Baynard House,Interserve Construction Ltd ( Paragon Div ),Baynard House,136 Queen Victoria Street,,London,EC4V 4AA,,
+568,595,*Paragon- GSK,Interserve Construction Ltd ( Paragon Div ),GSK Weighbridge,St George's Avenue,,Weybridge,KT13 0DE,,
+569,596,Overbury - One Colmore Square,Overbury Central,1 Colemore Squre,,,Birmingham,B4 6LJ,2018-06-28,
+570,597,Interserve Construction Ltd (Paragon Div)  - DWP Fiveways,Interserve Construction Ltd ( Paragon Div ),Islington Row,Middleway,,Birmingham,B15 1SL,2018-06-25,2018-07-27
+571,598,"Area- Chineham, Redwood 3",Area,"Redwood 3, Entrance Off Limetree Way",Chineham Business Park,,,RG24 8GU,2018-06-28,2018-09-06
+572,599,Parkeray - Canada Square,Parkeray,,,,,,2018-05-01,2018-06-24
+573,600,OD-95 Wandsworth Road - Office Fit Out,OD Interiors,95 Wandsworth Road,South Lambeth,,London,SW8 2HG,,
+574,601,OD Group- Highcross Street,OD Interiors,,,,,,,
+575,602,Parkeray - High Street,Parkeray,,,,,,2018-05-01,
+576,604,*Interserve Construction Limited (Paragon Div) - DWP Caernarfon,Interserve Construction Ltd ( Paragon Div ),29-31 St Helens Road,,Caernarfon,Wales,LL55 2HU,2018-06-18,2018-08-21
+577,605,Interserve Construction Limited (Paragon Div) -  Frimley,Interserve Construction Ltd ( Paragon Div ),CSD & IF Facility Frimley - Paragon Site,Unit 14 Lyon Way,Frimley,Surrey,GU16 7AL,2018-11-26,2020-03-16
+578,606,"Project 7- London Stadium, July 2018",Project7 Construction Ltd,London Stadium,QEOP,Stratford,London,E20 2ST,2018-03-01,2018-09-01
+579,607,Project 7- Hippodrome- Strip out,Project7 Construction Ltd,Hippodrome,Cranbourn Street,Leicester Square,London,WC2H 7JH,2018-07-09,2018-07-30
+580,608,Wates - St Johns Street Redevelopment,Wates Construction,28-36 St John Street,,,London,EC1M 4AY,2017-10-23,2019-09-23
+581,609,Wates - Knowles House,Wates Construction,51 & 53 Longstone Avenue,Willesden,,London,NW10 3UN,2018-06-01,2021-07-01
+582,610,*Holmes Metrobuild- Panther House,Holmes Metrobuild,156-164 Grays Inn Road,Panther House,,London,WC1X 8ED,2018-09-03,2018-11-12
+583,611,Interserve Construction Limited (Paragon Div ) - Bupa Cromwell OPD/POPD,Interserve Construction Ltd ( Paragon Div ),Bupa Cromwell OPD/POPD,162-174 Cromwell Road,,London,SW5 0TU,2018-08-06,2018-10-29
+584,612,Interserve construction Limited ( Paragon Div) - Victory Services,Interserve Construction Ltd ( Paragon Div ),63-79 Seymour Street,,,London,W2 2HF,2018-07-17,2018-08-31
+585,613,Cobra- Ruislip,Cobra Projects,75 High St,,,Ruislip,HA4 8JB,,
+586,614,"*Area- 1 Kingdom Street, Paddington",Area,1 Kingdom Street,Paddington,,London,W2 6BD,2018-08-20,2018-12-20
+587,615,Interserve Construction Limited (Paragon Div) - City of London School for Girls,Interserve Construction Ltd ( Paragon Div ),St Giles Terrace,Barbican,,London,EC2Y 8BB,2018-07-23,2018-09-03
+588,616,*Interserve Construction limited (ParagoN Div) - Virgin Active Brighton Showers,Interserve Construction Ltd ( Paragon Div ),Village Way,Brighton,,,BN1 9SG,2018-08-20,2018-10-19
+589,617,Cobra- The O2,Cobra Projects,Car Park 1,The O2,5 Millennium Way,London,SE10 0PH,,
+590,618,*Interserve Construction (Paragon Div)- Woodcote Grove,Interserve Construction Ltd ( Paragon Div ),Woodcote Grove,Ashley Road,,Epsom,KT18 5BW,2018-11-12,2019-04-05
+591,619,*Interserve Construction (Paragon Div)- Camden Lock,Interserve Construction Ltd ( Paragon Div ),Camden Lock Village,,,London,NW1 8AF,2018-09-03,2019-04-05
+592,620,Project 7- Hippodrome- Fit out,Project7 Construction Ltd,Hippodrome,Cranbourn Street,Leicester Square,London,WC2H 7JH,2018-07-14,2018-10-15
+593,621,"ADL- Holbrook House, Acton",ADL Drywall Group,"Holbrook House, Downing Construction Site",Victoria Road,North Acton,London,W3 6UW,2018-08-02,2019-07-01
+594,622,Overbury- Tamworth,Overbury Central,Lovell,Marston Park,,Tamworth,B78 3HN,2018-08-01,2019-01-31
+595,623,Cobra- Lillie Square,Cobra Projects,Lillie Square,Seagrave Road,,London,SW6 1RP,,
+596,624,Project 7 - 4 Hambledon Place,Project7 Construction Ltd,4 Hambledon Place,,,London,SE21 7EY,2018-08-14,2019-02-22
+597,625,Holmes Metobuild- Greater London House,Holmes Metrobuild,Greater London House,"Asos, Hampstead Road",Kings Cross,London,NW1 7QP,2018-08-20,2018-08-31
+598,626,Paragon Private- Westland Drive,Paragon - Private,56 Westland Drive,Brookmans Park,,Hatfield,AL9 7UQ,,
+599,627,Overbury- Colmore Square,Overbury Central,GDC- General Dental Council,4 Colmore Square,,Birmingham,B4 6BP,2018-08-24,2018-11-05
+600,628,"*Interserve Construction (Paragon Div)- Cambridge House, Birkbeck University",Interserve Construction Ltd ( Paragon Div ),"Cambridge House, Birkbeck University of London",Malet Street,Bloomsbury,London,WC1E 7HX,,
+601,629,"Holmes Metrobuild- HereEast, QEOP",Holmes Metrobuild,Waterden Road South Loading bay entrance,,Here East Queen Elizabeth Olympic Park,London,E15 2GW,,
+602,630,Project 7 - Goodwood Road,Project7 Construction Ltd,84 Goodwood Road,Southsea,Portsmouth,Portsmouth,PO5 1NW,2018-09-10,
+603,631,Interserve Construction Ltd (Paragon Div) - Apollo and Lunar AV Works,Interserve Construction Ltd ( Paragon Div ),36 and 40 Wellesley Road,,,Croydon,CR9 3RR,2018-09-17,2018-11-02
+604,632,Interserve Construction Limited ( Paragon Div ) - Addison Lee Unit 1,Interserve Construction Ltd ( Paragon Div ),Addison Lee - Unit 1,14 William Road,,London,NW1 3EN,2018-09-17,2018-11-30
+605,633,Interserve Construction limited ( Paragon Div ) - ASI Medical - Welbeck Street,Interserve Construction - Paragon Office,1 Welbeck Street,,,London,W1G 0AR,2018-09-10,2020-12-04
+606,634,*Interserve Construction Limited (Paragon Div) - HMP Lewes,Interserve Construction Ltd ( Paragon Div ),1 Brighton Road,Lewes,,East Sussex,BN7 1EA,2018-12-11,2019-05-16
+607,635,Overbury - FICO,Overbury Central,Overbury Site office C/O FICO,International Square,Starley Way,Birmingham,B37 7GN,2018-08-01,2019-05-31
+608,636,*Interserve Construction Ltd (Paragon Div)- The Old Vic,Interserve Construction Ltd ( Paragon Div ),The Old Vic,The Cut,Lambeth,London,SE1 8NB,2019-01-21,2019-08-02
+609,637,Overbury Private- Tony Donaghy,OTHER,The Old Rectory,Church Lane,Osgathorpe,Leicester,LE12 9SY,,
+610,638,Interserve Construction Limited ( Paragon Div ) - Castlemead,Interserve Construction Ltd ( Paragon Div ),232 Camberwell Road,,,London,SE5 0ED,2018-10-10,2019-03-06
+611,639,Interserve Construction Limited ( Paragon Div) - British Business Bank,Interserve Construction Ltd ( Paragon Div ),Second Floor,8 Salisbury Square,,London,EC4Y 8BB,2018-10-08,2018-11-30
+612,640,"Overbury- Grant Thornton, Kingfisher House, Norwich",Overbury Central,Kingfisher House,1 Gilders Way,St James Place,Norwich,NR3 1UB,2018-10-09,2018-11-12
+613,641,Holmes Metrobuild- Croydon,Holmes Metrobuild,436-440 Brighton Road,Croydon,,London,CR2 6AP,2018-10-08,
+614,642,Interserve Construction Limited (Paragon Div) - Parmenion Capital,Interserve Construction Ltd ( Paragon Div ),"3rd and 4th Floor, The Aurora Building",Finzells Reach,Counterslip,Bristol,BS1 6BX,2018-10-22,2019-02-15
+615,643,Overbury- Keele University,Overbury Central,Keele University,,,Staffordshire,ST5 5BG,2018-10-18,2018-11-23
+616,644,Other- Century Facades- Spitalfields,OTHER,Project Office,Chapter Spitalfields,9 Frying Pan Alley,London,E1 7LA / E1 7AS,,
+617,645,"Overbury- National Grid Stores, Didcot",Overbury Central,National Grid Stores,Old Milton Road,Didcot,Oxfordshire,OX11 7HH,2018-10-31,2018-12-17
+618,646,Interserve Construction Limited ( Paragon Div) - BHP Biliton,Interserve Construction Ltd ( Paragon Div ),Levels 12 & 13 Nova South,Victoria,,London,SW1W 0QT,2018-10-30,2018-10-31
+619,647,OD Group- Bloomsbury Way,OD Interiors,15-19 Bloomsbury Way,,,London,WC1A 2BA,,
+620,648,OD Solutions- 40 Grosvenor Place- ODS139,OD Solutions UK Ltd,40 Grovesnor Place,,,London,SW1X 7EN,2018-11-19,2020-02-12
+621,649,Cobra- Streatham,Cobra Projects,"Unit 11, The High Parade",Streatham High Road,Streatham,London,SW16 1EZ,,
+622,650,"Area- Motorola Rugby Main, 2018",Area,Motorola Rugby Main,"Airwave Rugby ESN Relocation, Airwave Solution Ltd","1-2 Bailey Road, Central Park",Rugby,CV23 0PD,2018-11-17,2019-02-13
+623,651,MATRIXOICS - MOICS P140 Winstons Hse OQEMA,Matrixoics,OQEMA,Winstons Hse,Carterton,Oxfordshire,OX18 3EZ,2018-11-19,2019-02-20
+624,652,DCP- Wandsworth,DCP,Galliford Try Building Ltd,Wandsworth Riverside Quarter,"Osiers Industrial Estate, Enterprise Way",Wandsworth,SW18 1EJ,,
+625,653,Holmes Metrobuild- Olympia,Holmes Metrobuild,Olympia,Hammersmith Road,Hammersmith,London,W14 8UX,,
+626,654,Overbury- Pegasus House,Overbury Central,Pegasus House,1 Cranbrook Way,,Shirley/Solihull,B90 4GT,2018-11-26,2018-03-15
+627,655,TGM- Woolwich,TGM Contractors Ltd,Woolwich Polytechnic school for girls,1 Birchdene Drive,Thamesmead,London,SE28 8RF,2018-11-28,2019-02-12
+628,656,Interserve Construction Ltd ( Paragon Div) Castlemead Strip out,Interserve Construction Ltd ( Paragon Div ),232 Camberwell Road,,,London,SE5 0ED,2018-11-07,2018-12-07
+629,657,Interserve construction Ltd (Paragon Div) - 102 Petty France Reconfiguration,Interserve Construction Ltd ( Paragon Div ),102 Petty France,,,London,SW1H 9AJ,2018-12-17,2019-03-01
+630,658,Cobra- Commercial Road,Cobra Projects,62-82 Commercial Road,,,,E1 1NU,,
+631,659,Holmes Metrobuild- SAI Medical Centre,Holmes Metrobuild,SAI Medical Centre,105 Calcutta Road,,Tilbury,RM18 7QA,2018-12-20,2019-09-01
+632,660,Speller Metcalfe- Derby Silk Mill,Speller Metcalfe,Derby Silk Mill,Silk Mill Lane,,Derby,DE1 3AF,2018-10-01,2020-12-06
+633,661,DCP- Croydon,DCP,16-18 Church Street (corner of Church Street),,,Croydon,CR0 1RB,,
+634,662,Bridge Interiors- Sheffield,Bridge Interiors,People Plus Group,Portland House,243 Moorfields,Sheffield,S3 8UG,2019-01-07,2019-01-11
+635,663,Axis Europe- Brentford,Axis Europe- Brentford,"Block B, Paragon Blocks/University of west London",Boston Manor Road,,Brentford,TW8 9GA,,
+636,664,"Space and Solutions - Strip out -  New Mint House, Petersfield",Space and Solutions,New Mint House,Bedford Road,,Petersfield,GU32 3AL,2019-02-11,2019-04-19
+637,665,Area- 70 Conduit Street,Area,70 Conduit Street,,,London,W1S 2GF,2019-01-08,2019-03-15
+638,666,TGM- The Grove School,TGM Contractors Ltd,The Grove School,Downshill Park Road,,London,N17 6AR,2019-01-09,2019-05-31
+639,667,Michael Brady- IQ Shoreditch,Michael Brady Ltd,IQ Shoreditch,2 Silicon Way,East Road,London,N1 6AT,2019-01-28,2019-12-31
+640,668,"Area- Vodafone Smale House, Phase 2",Area,"Vodafone, Smale House",114 Great Suffolk Street,,London,SE1 0BE,2019-01-21,2019-10-07
+641,669,"Overbury- IHG, Denham",Overbury Central,IHG,Broadwater Park,Denham,Buckinghamshire,UB9 5HR,2019-01-14,2019-04-12
+642,670,Oktra- AE Portsoken,Oktra,1 Portsoken Street,,,London,E1 8PH,2018-11-12,2020-04-03
+643,671,OD GROUP - Strip Out - 40 Grosvenor Place,OD Interiors,40 Grosvenor Place,,,London,SW1X 7JL,2018-12-06,
+644,672,Paragon - BT Teleport Strip Out,Interserve Construction Ltd ( Paragon Div ),,,,,,,
+645,673,Farrans- Hemel Hempstead,Farrans,Farrans Site Office,West Herts College,Marlowes,Hemel Hempstead,HP1 1HD,2019-01-21,2020-03-01
+646,674,Shooting Star Chase,Encore Environment Ltd,Shooting Star House,The Avenue,Hampton,Middlesex,TW12 3RA,2019-01-25,2019-02-11
+647,675,Project 7- St Pancras,Project7 Construction Ltd,HS1 works at Unit 7 St Pancras,Euston Road,Kings Cross,London,N1C 4QP,2019-03-01,2019-06-30
+648,676,"Overbury- Mechanical and Civil Building, Phase 2",Overbury Central,Mechanical and Civil Engineering,Haworth Building,Egbaston Campus,Birmingham,B15 2TT,2019-02-04,2019-03-11
+649,677,"Overbury- Medical School, University of Birmingham",Overbury Central,IBR - West,"Medical School, University of Birmingham",Vincent Drive,Birmingham,B15 2TT,2019-02-04,2019-10-31
+650,678,"Area- Diligenta, Peterborough",Area,"Diligenta, Peterborough Business Park",The Pearl Centre,Lynchwood,Peterborough,PE2 6FY,2019-02-11,2019-03-18
+651,679,Area- Reading,Area,13th Floor,Thames Tower,,Reading,RG1 1LX,,
+652,680,*Square One Construction- Peugeot Maidstone,Square One Construction,Peugeot,Cuxton Road,,Maidstone,ME15 9YF,2019-05-17,2019-09-06
+653,681,Interserve Construction Ltd (Paragon Div) - Clive House - Petty France,Interserve Construction Ltd ( Paragon Div ),70 Petty France,,Westminster,London,SW1H 9EX,2019-02-18,2019-05-31
+654,682,DCP- Sutton,DCP,Robert Mc Alpine Site,Marsden Hospital,Cotswold Road,Sutton,SM2 5NG,2019-02-20,
+655,683,"Holmes Metrobuild- Half Moon Lane, Dulwich",Holmes Metrobuild,80A Half Moon Lane,Dulwich,,London,SE24 9JE,2019-02-25,2020-03-06
+656,684,"Holmes Metrobuid- Thames Valley Park, Reading",Holmes Metrobuild,,Thames Valley Park,,Reading,RG6 1PT,,
+657,685,NBConsultants - Fox Court,NB Consultants Ltd,14 Grays Inn Road,,,London,WC1X 8HN,2019-02-21,2019-02-27
+658,686,"* Interserve Construction Ltd (Paragon Div)- Arndale House, Luton",Interserve Construction Ltd ( Paragon Div ),Arndale House,The Mall,,Luton,LU1 2LJ,,
+659,687,*NUCOM - Hoxton Hotel,NUCOM,81 Great Eastern Street,,,London,EC2A 3HU,2019-06-03,2020-02-10
+660,688,Test 1,Encore Environment,,,,,,,
+661,689,We Work- Southbank Place,We Work,2 Southbank Place,,,London,SE1 7NW,2019-03-04,2019-07-22
+662,690,Oktra - Head Office,Oktra,322 High Holborn,,,London,WC1V 7PB,2019-02-21,2019-02-21
+663,691,We Work- International House,We Work,International House,1 St Katherines Way,,London,E1W 1YL,,
+664,692,DCP- Dalingridge Farm,DCP,"Dalingridge Farm, Patchworth Lane",Sharpthorne,East Grinstead,East Sussex,RH19 4JL,2019-03-08,2020-12-04
+665,693,*Interserve Construction (Paragon Div) - Secure Project,Interserve Construction Ltd ( Paragon Div ),1-6 Citadel Place,Tinworth Street,Vauxhall,London,SE11 5EF,2019-03-22,2019-12-20
+666,694,Interserve Construction Ltd (Paragon Div) - Albany House,Interserve Construction Ltd ( Paragon Div ),Albany House,94-98 Petty France,Westminster,London,SW1H 9EA,2019-03-11,2019-05-31
+667,695,*Interserve Construction ltd (Paragon Div) - Petty France Phase 3,Interserve Construction Ltd ( Paragon Div ),102 Petty France,,Westminster,London,SW1H 9AJ,2019-03-19,2019-08-30
+668,696,"Overbury- K Line House, Ocean Network Express, Ipswich",Overbury Central,K Line House,Ocean Network Express,West Road,Ipswich,IP3 9FG,2019-03-19,
+669,697,NB Consultants - Moorgate,NB Consultants Ltd,12 Moorgate,,,London,EC2R 6DA,2019-03-21,2019-05-10
+670,698,"Personal- Tim Smith, 89 Windmill Road",OTHER,89 Windmill Road,,,Herne Bay,CT6 7DE,,
+671,699,"Private- Chris Mellor, 11 Rowlandson Close",OTHER,11 Rowlandson Close,Weston Favell,,Northampton,NN3 3PB,,
+672,700,Holmes Metrobuild- Guildford,Holmes Metrobuild,BOC,The Priestly Centre,Priestley Road,Guildford,GU2 7XY,2019-04-02,
+673,701,Paterson Contracts Ltd - 103 New Bond Street,Paterson Contracts Ltd,130 New Bond Street,,,London,W1S 2TA,2019-03-29,
+674,702,21 Construction- 50 New Bond Street (strip),21 Construction,50 New Bond Street,,,London,W1S 1BJ,2019-04-08,2019-06-28
+675,703,*OD Group - Novartis Westworks,OD Interiors,Level 02 Westworks,195 Wood Lane,White City,London,W12 7FQ,,
+676,704,We Work- 70 Wilson Street,We Work,70 Wilson Street,Loading bay is 50 Worship Street,,London,EC2A 2EA,,
+677,705,"Holmes Metrobuild- Thames Valley Park, Reading",Holmes Metrobuild,"Four 10, Thames Valley Park",,,Reading,RG6 1RH,,
+678,706,Make One Group - KOKO,Make One Group,1a Camden High Street,,,London,NW1 7JE,2019-04-09,2021-01-04
+679,707,Area- Bracknell,Area,"HP, Building 2",Amen Corner,,Bracknell,RG12 2HN,2019-04-11,2019-05-17
+680,708,Project 7 - QEOP May-July 2019,Project7 Construction Ltd,London Stadium,QEOP,Stratford,London,E20 2ST,2019-05-10,2019-07-31
+681,709,BDS- Head Offfice,BDS,Third floor,Fitz Eylwin House,25 Holborn Viaduct,London,EC1A 2BP,,
+682,710,"Overbury- Interface, 1 Northburgh Street, London",Overbury Central,1 Northburgh Street,,,London,EC1V 0AL,,
+683,711,"Overbury North- Parkinson Building, Leeds Uni",Overbury North,Leeds University,Parkinson Building,Woodhouse Lane,Leeds,LS2 9JT,2019-03-04,2019-11-04
+684,712,We Work - Fox Court,We Work,14 Grays Inn Road,,,London,WC1X 8HN,2019-05-07,
+685,713,NB Consultants - St James Street,NB Consultants Ltd,20 St James Street,,,London,SW1A 1ES,2019-05-04,
+686,714,We Work- Moorgate,We Work,12 Moorgate,,,London,EC2R 6DA,2019-05-02,2019-08-08
+687,715,Private- Northampton County Lawn Tennis Club (Chris Mellor),OTHER,Northampton County Lawn Tennis Club,54B Church Way,Weston Favell,Northampton,NN3 3BX,,
+688,716,Overbury- Halifax,Overbury Central,Fmill,Dean Clough Mill,Lee Bridge,Halifax,HX3 5AX,2019-05-07,2019-06-14
+689,717,21 Construction- 50 New Bond Street (fit),21 Construction,50 New Bond Street,,,London,W1S 1BJ,2019-04-08,2019-06-14
+690,718,Overbury- Wokingham,Overbury Central,St Cathrins Lodge,,,Wokingham,RG41 5BN,,
+691,719,Project 7- Hertfordshire,Project7 Construction Ltd,2A Blacksmiths Hill,Benington,Near Stevenage,Hertfordshire,SG2 7LQ,,
+692,720,*Interserve Construction (Paragon div)- Idea Store Chrisp Street,Interserve Construction Ltd ( Paragon Div ),The Idea Store,1 Versey Path,East India Dock Road,London,E14 6BT,2019-06-17,2019-08-26
+693,721,Overbury-Tricorn House,Overbury Central,Hagley Road,Edgbaston,,Birmingham,B16 8TP,2019-05-23,
+694,722,"Holmes Metrobuild- Kingland Road, Shoreditch",Holmes Metrobuild,1020 Kingsland Road,,Shoreditch,London,E2 8DA,,
+695,723,Overbury- T2 Trinity Park,Overbury Central,T2,Trinity Park,,Birmingham,B37 7ES,2019-06-10,2019-09-30
+696,724,Project 7- Clapham,Project7 Construction Ltd,11 Endlesham Road,,Clapham,London,SW12 8JX,,
+697,725,"Holmes Metrobuild- Kingsland Road, Shoreditch",Holmes Metrobuild,10-20 Kingsland Road,,Shoreditch,London,E2 8DA,2019-05-30,2019-08-08
+698,726,Private- Mark Kirrane,OTHER,5 Crabtree Close,,,Bushey,WD23 3BJ,,
+699,727,*Interserve Construction (Paragon Div)- Crawley Town Hall,Interserve Construction Ltd ( Paragon Div ),Crawley Town Hall,,,Crawley,RH10 1UZ,2019-07-29,2019-09-23
+700,728,Overbury- Sheffield,Overbury Central,St Pauls Square,,,Sheffield,S1 2JU,2019-04-15,2019-06-21
+701,729,Interserve Construction (Paragon Div)- Project Redwing- Whitehall,Interserve Construction Ltd ( Paragon Div ),70 Whitehall,,,,SW1A 2AU,2019-07-15,2020-06-09
+702,730,We Work- Edinburgh,We Work,80 George Street,,,Edinburgh,EH2 3BU,,
+703,731,"Overbury- The Mellor Building, Staffordshire Uni",Overbury Central,The Mellor Building,Staffordshire University,College Road,Stoke-On-Trent,ST4 2DE,2019-06-17,
+704,732,Verity Interiors- Mill Harbour,Verity Interiors,45 Mill Harbour,Isle of Dogs,,London,E14 9TR,2019-11-18,2020-04-10
+705,733,Overbury- Newhall Street,Overbury Central,1 Newhall Street,,,Birmingham,B3 3NH,,
+706,734,Oktra- Portsoken Street,Oktra,1 Portsoken Street,,,London,E1 8PH,,
+707,735,*Interserve Construction (Paragon Div)- General Dental Council,Interserve Construction Ltd ( Paragon Div ),General Dental Council,37 Wimpole Street,Marylebone,London,W1G 8DQ,,
+708,736,Speller Metcalfe - Yeovil Residential,Speller Metcalfe,Yeovil Residential,Gold Court,Yeovil,Somerset,BA21 4DH,2019-07-15,2020-12-31
+709,737,"Overbury Central- Cable Plaza, Dudley",Overbury Central,Cable Plaza,Waterfront West,Brierley Hill,Dudley,DY5 1LW,,2019-11-09
+710,738,OD- Westworks,OD Interiors,Westworks,195 Wood Lane,White City,London,W12 7FQ,2019-07-12,2019-10-31
+711,739,We Work- Fenchurch Street,We Work,Level 12 & 13,,10 Fenchurch Avenue,London,EC3M 5BN,2019-07-08,2019-11-01
+712,740,DCP- Imperial War Museum,DCP,Imperial War Museum,Lambeth Road,,London,SE1 6HZ,,
+713,741,KPM Construction- Bear Gardens,K.P.M Construction Limited,1 Bear Gardens,1-2 Rose Alley,,London,SE1 9ED,,
+714,742,TGM - Bath Road Slough,TGM Contractors Ltd,225 Bath Road,,,Slough,SL1 4AA,2019-07-08,2019-09-30
+715,743,Overbury- Warwick Uni,Overbury Central,Warwick Uni,,,Coventry,CV4 7AL,2019-07-11,
+716,744,We Work- 120 Old Broad Street,We Work,120 Old Broad Street,,,London,EC2N 1AR,,
+717,745,"Overbury- 159 Princes Street, Ipswich",Overbury Central,159 Princes Street,,,Ipswich,IP1 1QJ,2019-07-15,2019-09-06
+718,746,"Morgan Lovell- Dehns, Brighton",Morgan Lovell Southern,"Morgan Lovell, 5th Floor Site Office",The Brinell Building,30 Station Street,Brighton,BN1 4GZ (Visit Blackman Street for offloading etc.),2019-08-05,2019-10-21
+719,747,Interserve Construction (Paragon Div)- Luton Family Courts,Interserve Construction Ltd ( Paragon Div ),"Paragon, C/O 4th and 5th Floors",Arndale House,The Mall (access via Melson Street) into the service road,Luton,LU1 2JL,2019-09-02,2020-02-03
+720,748,Michael Bready- DeedsDay Festival,Michael Brady Ltd,The Croft Dagnal Road,,,Great Gaddesden,HP1 3BP,,
+721,749,We Work - Russell Square House,We Work,10-12 Russell Square,,,London,WC1B 5EH,,
+722,750,Holmes Metrobuild- Keston,Holmes Metrobuild,45 Longdon Wood,Orpington,,Keston Park,BR2 6EN,2019-07-19,2019-11-01
+723,751,"Overbury- Abbey College, Birmingham",Overbury Central,Abbey College,,10 St Pauls Square,Birmingham,B3 1QU,2019-07-01,2019-09-06
+724,752,"Interserve Construction (Paragon Div) 3 Minster Court, 3rd Floor Split",Interserve Construction Ltd ( Paragon Div ),3 Minster Court,,,London,EC3R 7DD,2019-07-15,2019-09-13
+725,753,TGM- Ark Putney,TGM Contractors Ltd,Ark Putney,,,London,SW15 3DG,,
+726,754,We Work- Churchill Place,We Work,30 Churchill Place,Canary Wharf,,London,E14 5EU,,
+727,755,"Overbury- Arundel Gate, Sheffield",Overbury Central,Mott MacDonald Ltd,Derwent House,150 Arundel Gate,Sheffield,S1 2JY,,
+728,756,DCP- Head Office,DCP,"DCP, BTS House","Suite 1A, 73 Manor Road",Wallington,Surrey,SM6 ODD,,
+729,757,"We Work Minster Court (Floor 4,8,9,10)",We Work,,,,,,,
+730,758,"OD Interiors- Working From- Wedge House, Southwark",OD Interiors,Wedge House,32-40 Blackfriars Road,Southwark,London,SE1 8NY,2019-09-16,2020-01-17
+731,759,Overbury- BCU School of Jewellery,Overbury Central,82-86 Vittoria Street,Skip to be delivered at the rear of the building- off Freddrick Street,,Birmingham,B1 3PA,,2019-09-06
+732,760,Overbury- Bicester,Overbury Central,56 Lyneham Road,Bicester,,Oxon,OX26 4FD,,
+733,761,Speller Metcalfe- Long Eaton,Speller Metcalfe,West Park Leisure,Wilsthorpe Road,Long Eaton,Nottinghamshire,NG10 4AA,2019-08-12,2019-10-15
+734,762,We Work- Avon House,We Work,Avon House 1324,Kensington Village,Hammersmith,London,W14 8UH,,2019-11-04
+735,763,Verity - Miami House,Verity Interiors,Miami House,38 Sandy Lane North,,Wallington,SM6 8JX,2019-08-14,
+736,764,"TGM- Ponders End, Enfield",TGM Contractors Ltd,The Electric Quarter,"Ponders End, High Street",Enfield,London,EN3 4EZ,,
+737,765,"Private, The Atlas Club -Woronzow Road, London",OTHER,34 Woronzow Road,,,London,NW8 6AT,,
+738,766,Speller- Derby Silk Mill Strip,Speller Metcalfe,,,,,,,
+739,767,"We Work- 97 - 137 Hackney Road, London",We Work,97 - 137 Hackney Road,Access via Long Street,,London,E2 8ET,2019-08-28,2020-02-11
+740,768,"Overbury- Secure Trust Bank, Solihull",Overbury Central,Site Compound,Yorke House,Arleston Way,Solihull,B90 4LH,2019-08-26,2019-10-25
+741,769,"Overbury Central- 3 Waterfront West, Dudley",Overbury Central,3 Waterfront West (Higgs and Sons),Brierley Hill,,Dudley,DY5 1LW,,2019-09-30
+742,770,Verity- Wimpole Street,Verity Interiors,29A Wimpole Street,,,London,W1G 8GP,2019-09-12,2019-09-30
+743,771,Overbury Central- Colmore Row,Overbury Central,One Colmore Row,,,Birmingham,B3 2BJ,2019-08-08,2020-01-31
+744,772,Overbury Central- Luton,Overbury Central,600 Capability Green,Horizon Place,,Luton,LU1 3LU,,
+745,773,"HMS- Foxhill Road, Northampton",HMS Holdings,1 Grange Farm,Foxhill Road,Long Buckby,Northampton,NN6 7BW,2019-09-16,
+746,774,"OptiMorph- Hapimag, Lancaster Gate, London",OptiMorph,Hapimag,23-26 Lancaster Gate,,London,W2 3LP,2017-07-24,2020-11-27
+747,775,"Overbury Central- Baskerville House, Birmingham",Overbury Central,Baskerville House,,,Birmingham,B1 2ND,2019-09-30,2020-01-13
+748,776,Thrid Way- Judd House BREEAM Support,Third Way,Judd House,19-23 Mora Street,,London,EC1V 8EH,,
+749,777,Verity- Melia White House,Verity Interiors,Melia White House,Albany Street,,London,NW1 3UT,2019-09-05,2019-11-14
+750,778,"We Work- Brindley Place, Birmingham",We Work,6 Brindley Place,,,Birmingham,B1 2JF,2019-10-02,
+751,779,"Overbury Central- Canal Street, Nottingham",Overbury Central,Finastra 2019,Nottingham One,Canal Street,Nottingham,NG1 7HB,2019-10-07,2020-01-17
+752,780,"*Interserve Construction (Paragon Div)- 2 Western Gateway, Royal Docks, London",Interserve Construction Ltd ( Paragon Div ),2 Western Gateway,Royal Docks,,London,E16 1DR,2019-11-11,2020-06-25
+753,781,Paragon BC- Pall Mall,Paragon BC /COMMONWEALTH PALL MALL,55-58 Pall Mall,,,London,SW1Y 5HX,,
+754,782,"M Moser- The Brinell Building, Brighton",M Moser,The Brinell Building,30 Station Street,,Brighton,BN1 4GZ,2020-02-10,2020-07-10
+755,783,TGM- Aston House,TGM Contractors Ltd,Aston House,Oak End Way,Gerrards Gross,Buckinghamshire,SL9 8BR,2019-10-14,
+756,784,"Overbury Central- Oakfield House, Coventry",Overbury Central,"Coventry Building Society, Oakfield House","Binley Business Park, Harry Weston Road",Coventry,West Midlands,CV3 2TQ,2019-10-14,2020-03-13
+757,785,Paragon BC- Pall Mall,Paragon BC /COMMONWEALTH PALL MALL,55-58 Pall Mall,,,London,SW1Y 5HX,,
+758,786,"Overbury North- Bibby Lane, Rumford Street, Liverpool",Overbury North,Walker House Exchange Flags,Rumford Street,,Liverpool,L2 3YL,,
+759,787,Interserve Construction (Paragon Division)- 3 Minster Court 2019,Interserve Construction Ltd ( Paragon Div ),3 Minster Court,,,London,EC3R 7DD,2019-10-14,2020-04-06
+760,788,"Interserve Construction Ltd (Paragon Div)- Warehouse  K, Royal Docks",Interserve Construction Ltd ( Paragon Div ),Warehouse K,"2 Western Gateway, Royal Docks",(All deliveries to be via Seagull Lane),London,E16 1DR,2019-10-28,2020-11-06
+761,789,"ISG- Project Seattle, The Post Building",ISG,"Project Seattle, The Post Building",High Holborn,,London,WC1A 1PB,2019-11-04,2020-11-30
+762,790,"Overbury Central- Network Rail, Milton Keynes",Overbury Central,Network Rail,Elder Gate,,Milton Keynes,MK9 1EN,,
+763,791,Private- Sywell,OTHER,12 Wellingborough Road,Sywell,,Northamptonshire,NN6 0FB,,
+764,792,HMS- Salisbury,HMS Holdings,17 Belle Vue Road,,,Salisbury,SP1 3YD,2019-10-31,
+765,793,Overbury North- Sheffield,Overbury North,Building 3,St Pauls Square,,Sheffield,S1 2JU,,
+766,794,OD Interiors- Apex Tower,OD Interiors,Apex Tower,7 High Street,New Malden,Kingston Upon Thames,KT3 4LH,2020-01-06,2020-12-18
+767,795,"Overbury North- Mann Island, Liverpool",Overbury North,Mann Island,,,Liverpool,L3 1BP,2019-11-11,2019-12-06
+768,796,Interserve Construction Ltd (Paragon Div)- Dover House,Interserve Construction Ltd ( Paragon Div ),Dover House,Whitehall,,London,SW1A 2AU,,2020-04-30
+769,797,"Overbury Central- Studio Retail, Accrington",Overbury North,"Entrance via Oak Street, just off Blackburn Road (A678)",,,Accrington,BB5 5JY,2019-01-06,2020-07-31
+770,798,"Make One Group- Old Church Street, London",Make One Group,26-30 Old Church Street,,,London,SW3 5DA,2019-11-18,2020-11-30
+771,799,"Envirowaste- Lacoste, Nottingham",EnviroWaste,Lacoste,7 Victoria Street,,Nottingham,NG1 2EW,2019-11-27,
+772,800,Envirowaste- Lacoste- Leicester,EnviroWaste,Lacoste,Leicester High Cross,Shires Lane,Leicester,LE1 4FS,,
+773,801,Overbury Central- Solihull College,Overbury Central,Solihull College,The Willows North,,Stratford Upon Avon,CV37 9QR,2019-12-09,2020-09-11
+774,802,"Overbury North- Clothworkers, Leeds Uni",Overbury North,"Clothworkers Central Building,",Leeds University,,,LS2 9JT.,2019-11-01,2020-04-03
+775,803,ISG- Swindon,ISG,Ramsbury house,Kembrey Park,,Swindon,SN2 8UY,2019-11-28,2019-11-28
+776,804,*We Work- Longacre,We Work,22 Longacre,,,,WC2E 9LY,2019-12-06,
+777,805,TGM- Malton Avenue,TGM Contractors Ltd,Gate A,445 Malton Avenue,,Slough,SL1 4QU,2019-12-05,2020-02-25
+778,806,Encore Environment,Encore Environment,Encore Environment Ltd,Unit 1,"Home Farm, Sywell",Northampton,NN6 0BQ,2020-09-01,2020-09-24
+779,807,OD Interiors- Liberty Lasenby House,OD Interiors,34 Kingly Street,,,London,W1B 5QQ,2019-12-16,2020-10-31
+780,808,Overbury Central- T3 Trinity Park,Overbury Central,T3 Trinity Park,,,Birmingham,B37 7EF,2019-11-18,2020-06-16
+781,809,Quarme- Conduit Street,Quarme,7 & 8 Conduit Street,Mayfair,,London,W1S 2XF,,
+782,810,Project 7-Hippodrome,Project7 Construction Ltd,Hippodrome Casino,Cranbourn Street,Leicester Square,London,WC2H 7JH,2019-11-18,2020-08-14
+783,811,Michael Brady- Hemel Hempstead,Michael Brady Ltd,The Croft,Dagnal road,Great Gaddesden,Herts,HP1 3BP,,
+784,812,Admiralty Arch- Admiralty Arch,Admiralty Arch,11-12 St James Square,,,London,SW1Y 4LB,,
+785,813,Metal & Plant LTD- Edinburgh,Metals & Plant Ltd,Meadowbank House,153 London Road,,Edinburgh,EH8 7AU,2020-01-06,
+786,814,"McLaren- Portland Place, London",McLaren,33 Portland Place,Marylebone,,London,W1B 1QE,,
+787,815,"*Interserve Construction- St George's University Hospital Trust, London",Interserve Construction,St George's Hospital,,,London,SW17 0QT,2020-01-06,2023-04-03
+788,816,"Overbury-Station Road, Cambridge",Overbury Central,50/60 Station Road,,,Cambridge,CB1 2JH,2019-10-07,2020-02-10
+789,817,Overbury North- Accrington,Overbury North,Express House,Clayton-Le-Moors,,Accrington,BB5 5JY,,
+790,818,"Overbury- Sandwell Council, Phase 2",Overbury Central,Sandwell Council,Freeth Street,Oldbury,,B69 3DE,2020-01-16,2020-05-02
+791,819,"Overbury Central- Lynch Wood Park, Peterborough",Overbury Central,Lynch Wood Park,,,Peterborough,PE2 6FZ,2020-01-20,2020-07-03
+792,820,Project 7- Armitage Hall,Project7 Construction Ltd,Armitage Hall,224 Great Portland St,,London,W1W 5QP,2020-01-23,
+793,821,Blackburn & Co- Berners Street and Wells Street,Blackburn & Co,58-60 Berners Street and 14-17 Wells Street,,,London,W1T 3PD,,
+794,822,"Overbury Central- FIS Global, Birmingham",Overbury Central,Tricorn House,Hagley Road,,Birmingham,B16 8TU,2020-01-27,2020-09-02
+795,823,Michael Brady- Victoria Park Square,Michael Brady Ltd,17 Victoria Park Square,Bethnal Green,,London,E2 9PB,2020-01-29,
+796,824,Overbury Central- Secure Trust Bank,Overbury Central,Secure Trust Bank,1 Arleston Way,Solihull,,B90 4LH,2020-02-03,
+797,825,Peter Kempster- Private,Overbury Central,34 Barrow Close,Walsall Wood,,,WS9 9BS,2020-02-04,
+798,826,"Holmes Metrobuild- Curzon Street, London",Holmes Metrobuild,1 Curzon Street,Mayfair,,London,W1J 5HD,2020-02-10,2020-08-31
+799,827,Overbury North- Crewe,Overbury North,Herald Drive,Crewe,,,CW1 6EG,2020-02-13,2020-07-10
+800,828,OD- Liberty Lasenby House Strip Out,OD Developments and Projects,Liberty Lasenby House,32 Kingley Street,,London,,,
+801,829,OD Interiors - Dering Street,OD Interiors,20 Dering Street,,,London,W1S 1AH,2020-03-02,2020-10-23
+802,830,Cadogan Gardens,Emerald Hill Properties Limited,113 Cadogan Gardens,,,London,SW3 2RG,,
+803,831,"Overbury Central- National Grid, Wokingham",Overbury Central,St Catherine's Lodge,Bearwood Road,Sindlesham,Wokingham,RG41 5BN,2020-03-02,2020-08-14
+804,832,"OD Interiors- Uncommon, 81 High Holborn, London",OD Interiors,"Uncommon, 81 High Holborn",Holborn,,London,WC1V 6NG,2020-03-09,2021-03-11
+805,833,"Interserve Construction, Paragon Div- The Minster Building, 5th Floor, London",Interserve Construction - Paragon Office,The Minster Building,5th Floor,,London,EC3R 7DD,2020-02-17,2020-04-17
+806,834,TGM Private,OTHER,90 Amersham Road,,Chalfont St Peter,Buckinghamshire,SL9 0PB,2020-03-13,
+807,835,OD Interiors- Ballymore,OD Interiors,Orchard Place,Poplar,,London,E14 0QG,2020-03-10,
+808,836,Private- Richard Hays,OTHER,21 London Road,Tonbridge,Kent,,TN10 3AB,,
+809,837,"J&I Chasers- Uncommon, 81 High Holborn, London",J & I Chasers Ltd,"Uncommon, 81 High Holborn",Holborn,,London,WC1V 6NG,2020-03-17,2020-10-30
+810,838,OD- Apex Tower,OD Construction Ltd,,,,,,,
+811,839,OD Interiors - Charter Court,OD Interiors,Charter Court,,,Slough,SL1 2HD,2020-06-01,2021-01-27
+812,840,Overbury - National Grid Solihull,Overbury Central,National Grid,35 Homer Road,Solihull,,B91 3QJ,,
+813,841,*OD Interiors- 80 Wood Street,OD Interiors,80 Wood Street,,,London,EN5 4BW,2020-05-18,2020-11-09
+814,842,"Make One Group- 4 Lansdowne Crescent, London",Make One Group,"4 Lansdowne Crescent, London",,,London,W11 2NH,,
+815,843,"Overbury- Peter Kempster Private, Walsall",Overbury Central,34 Barrow Close,Walsall Wood,,Walsall,WS9 9BS,,
+816,844,*Interserve Construction (Paragon Div)- Project Swift,Interserve Construction Ltd ( Paragon Div ),Project Swift,The Shard,32 London Bridge Street,London,SE1 9SG,,
+817,845,"*Interserve Construction (Paragon Div)- L Catterton - Belgrave House, London",Interserve Construction Ltd ( Paragon Div ),L Catterton Advisors UK Ltd,Level 6,Belgrave House,London,SW1W 9TO,2020-06-29,2020-10-09
+818,846,"Ambit Moat Ltd- 20 St James's Street, London",Ambit Moat Ltd,20 St James Street,,,London,SW1A 1ES,2020-04-13,2020-06-15
+819,847,DCP- Swanscombe,DCP,22 Betsham Road,,,Swanscombe,DA10 0EU,,
+820,848,Ambit- Chiswick Park,Ambit Moat Ltd,Building 5,Chiswick Park,,London,W4 5YF,2020-05-04,2020-08-10
+821,849,"CAPS- Threadneedle Street, London",Caps Group Limited,Piazza Italiana,Ground Floor,38 Threadneedle Street,London,EC2R 8AY,2020-04-27,2020-09-11
+822,850,"Ambit- The Programme Building, Bristol",Ambit Moat Ltd,The Programme Building (3017A),,,Bristol,BS1 2NB,,2020-10-31
+823,851,Dartford Warbler- Camberley,Dartford Warbler,Victoria Court,Victoria Avenue,,Camberley,GU15 3HZ,,
+824,852,"Farrans- Brentwood Town Hall, 2020",Farrans,Brentwood Town Hall,Ingrave Road,,Brentwood,CM15 8AY,,
+825,853,"Paragon Private- Maidstone, Russell Durnford",Paragon - Private,77 College Road,,Maidstone,Kent,ME15 6TF,,
+826,854,"Canvas Projects Ltd- Bury Street, London",Canvas Projects Ltd,Bury House,31 Bury Street,,London,EC3A 5AR,2020-04-29,
+827,855,Private- Brixworth,OTHER,Manor House,Victors Barn,Northampton Road,Brixworth,NN6 9DQ,,
+828,856,Overbury Central- BT Snow Hill- Phase 1,Overbury Central,3 Snow Hill Queensway,,,Birmingham,B4 6GA,2020-05-04,2020-11-30
+829,857,Private-Caren,OTHER,4 Barnwell Gardens,,,Wellingborough,NN8 5FJ,2020-05-11,
+830,858,"Ambit- Bury House, London",Ambit Moat Ltd,Bury House,31 Bury Street,,London,EC3A 5AR,2020-05-25,2020-09-11
+831,859,"Ambit- Witan Gate House, Milton Keynes",Ambit Moat Ltd,Witan Gate House (3028A),500-600 Witan Gate,,Milton Keynes,MK9 1SH,2020-05-18,2020-12-18
+832,860,"ISG- M&S, Maidstone",ISG,M&S Maidstone,Eclipse Park,Sittingbourne Road,Maidstone,ME14 3EN,2020-03-09,2020-11-25
+833,861,"Canvas Projects- Witan Gate, Milton Keynes",Canvas Projects Ltd,Witan Gate House,500-600 Witan Gate,,Milton Keynes,MK9 1SH,2020-05-18,2020-09-14
+834,862,"HMS- Cromwell Lane, Coventry",HMS Holdings,85 Cromwell Lane,,,Coventry,CV4 8AQ,,
+835,863,"Overbury Central- 45 Church Street, Birmingham",Overbury Central,45 Church Street,,,Birmingham,B3 2RT,2020-05-28,2020-07-03
+836,864,Private- Alfie,OTHER,6 Pear Tree Lane,Hempstead,,Kent,ME7 3RJ,,
+837,865,ITC Concepts- 63 St James's Street,ITC Concepts,,63 St James Street,,London,SW1A 1LY,2020-03-16,2021-02-28
+838,866,"Overbury Central- Lynchwood House, Peterborough",Overbury Central,Lynchwood House,,,Peterborough,PE2 6EA,2020-06-01,2020-10-09
+839,867,"Overbury Central Sandwell Council, Phase 3",Overbury Central,Sandwell Council,Freeth Street,Oldbury,,B69 3DE,2020-06-08,2020-08-28
+840,868,Interserve Construction (Paragon Div)- Camberley Shopping Centre,Interserve Construction Ltd ( Paragon Div ),,5-6 The Square,,Camberley,GU15 3SL,,
+841,869,"800 Group- Highgate, London",800 Group,The Waterhouse,Millfield Lane,,London,N6 6HQ,,
+842,870,Morgan Lovell- Wolverhampton- 3629,Morgan Lovell Southern,I10 Building,Wolverhampton Exchange,Railway drive,Wolverhampton,WV1 1LD,2020-05-11,2020-09-14
+843,871,*ISG- Sainsbury's,ISG,Gatehouse Road,,,Aylesbury,HP19 8FF,2020-10-01,2021-06-08
+844,872,"*Verity- 26-28 Bedford Row, London",Verity Interiors,26-28 Bedford Row,Holborn,,London,WC1R 4LP,2020-08-03,2020-11-27
+845,873,"800 Group- The Lubetkin Penthouse, London",800 Group,The Lubetkin Penthouse,Highpoint II,North Hill,London,N6 4BA,2020-06-08,2020-08-12
+846,874,"800 Group- 4 Sheffield Terrace, London",800 Group,4 Sheffield Terrace,,,London,W8 7NA,,
+847,875,"*Overbury- Charlotte Street, London",Overbury Major Projects,80 Charlotte Street,,,London,W1T 4QS,2020-06-08,2021-04-19
+848,876,"Farrans- Coburg Crescent, Lambeth",Farrans,Coburg Crescent,Lambeth,,London,SW2 3HT,2020-06-10,2021-07-05
+849,877,"800 Group- Passmore Street,  London",800 Group,18 Passmore Street,,,London,SW1W 8HP,2020-06-10,2020-10-07
+850,878,"800 Group- 29 Langland Gardens, London",800 Group,29 Langland Gardens,,,London,NW3 6QE,2020-06-10,2020-11-13
+851,879,Acre Invest (Luton) Ltd- Luton,Acre Invest Luton Ltd,40-58 Collingdon Street,,,Luton,LU1 1RX,2020-06-11,2020-09-14
+852,880,"800 Group- 7 Ladbroke Terrace, London",800 Group,7 Ladbroke Terrace,,,London,W11 3PG,2020-06-11,2020-09-11
+853,881,"Milestone- Hamilton Road, London",Milestone Contracting,Hamilton House,Bennett Street,Chiswick,London,W4 6AJ,2020-04-06,2021-01-19
+854,882,"Latitude- Hilton Hotel, Gatwick Airport",Latitude Contract Interiors Ltd,"Gatwick Airport,",South Terminal,Horley,Gatwick,RH6 0LL,,
+855,883,Milestone- Medmenham,Milestone Contracting,Number 21,North Close,Medmenham,Marlow,SL7 2EL,2020-06-15,2021-02-15
+856,884,"Overbury Central- Rutland Centre, Leicester",Overbury Central,Rutland Centre,56 Halford Street,,Leicester,LE1 1TQ,2020-06-15,2020-07-31
+857,885,Interserve Paragon- Project Mercury-30 Eastcheap,Interserve Construction Ltd ( Paragon Div ),30 Eastcheap Billingsgate,,,London,EC3M 1HD,2020-06-29,2020-08-31
+858,886,Milestone- Loraine Road,Milestone Contracting,"1-20 Loraine Road,",Chiswick,,London,W4 3QT,2020-06-15,2021-08-23
+859,887,Milestone- Binkot,Milestone Contracting,Binkot,Englefield Road,Knaphill,Woking,GU21 2EJ,2020-07-06,2021-07-02
+860,888,Morgan Lovell- Wolverhampton- MA3629,Morgan Lovell Southern,I10 Building,Wolverhampton Exchange,Railway drive,Wolverhampton,WV1 1LD,2020-05-11,2020-09-14
+861,889,800 Group- Henry Moore Court,800 Group,1 Henry Moore Court,Manresa Road,,London,SW3 6LR,2020-06-30,2020-11-27
+862,890,"800 Group- The Factory, London",800 Group,30 The Factory,1 Nile Street,,London,N1 7LX,,
+863,891,TGM - Park Hill,TGM Contractors Ltd,Park Hill Junior School,Stanhope Road,,Croydon,CR0 5NS,2020-07-03,2021-03-01
+864,892,"Holmes- Biggin Hill, Kent",Holmes Metrobuild,Great South Street Farm,Main Road,Westerham,Kent,TN16 2HP,,
+865,893,"Overbury Central- Dudley College, Dudley",Overbury Central,Dudley College,Art and Design Centre,Venture Way,Dudley,DY5 1RG,2020-06-25,2020-09-11
+866,894,Holmes - Park Farm Cottage,Holmes Metrobuild,Park Farm Cottage,Colliers Green,,Cranbrook,TN17 2LR,2020-06-26,
+867,895,"Michael Brady- IQ Shoreditch, Phase 2",Michael Brady Ltd,IQ Shoreditch,2 Silicon Way,East Road,London,N1 6AT,2020-07-06,2020-09-28
+868,896,Other- Tony Donaghy private,Overbury Central,The Old Rectory,Church Lane,Osgathorpe,Leicestershire,LE12 9SY,,
+869,897,TGM- Haberdashers,TGM Contractors Ltd,Haberdashers,135 Pepys Road,,London,SE14 5SF,2020-07-03,2021-03-01
+870,898,"OD Interiors- Uncommon, High Holborn- Strip Out",OD Interiors,,,,,,,
+871,899,Other- Ritchie Stace,OTHER,55 Montague Avenue,,,South Croydon,CR2 9NL,,
+872,900,"Canvas Projects- Bury House, Level 3",Canvas Projects Ltd,Bury House,31 Bury Street,,London,EC3A 5AR,2020-07-06,
+873,901,"Ambit- St James's Street, Level 3",Ambit Moat Ltd,20 St James's Street,,,London,SW1A 1ES,,
+874,902,OD Interiors- Uncommon (All),OD Interiors,,,,,,,
+875,903,800 Group- Hanover Terrace,800 Group,5 Hanover Terrace,,,London,NW1 4RJ,,
+876,904,"Ambit- Pirate Studio's, Kentish Town",Ambit Moat Ltd,Pirate Studios (3030A),Industry House,23-25 Hampshire St,,NW5 2TE,2020-07-13,2020-11-20
+877,905,"Acre Invest (St Albans) Ltd- Scout Farm, Redbourn",ACRE INVEST Redbourne,Scout Farm,Dunstable Road,Redbourn,,AL3 7PQ,,
+878,906,"Overbury Central- Acorn House, Worcester",Overbury Central,Acorn House,,,Worcester,WR4 9FP,2020-07-13,2020-09-01
+879,907,*Interserve Construction (Paragon Div)- HMP Huntercombe,Interserve Construction Ltd ( Paragon Div ),HMP Huntercombe,Nuffield,Henley-On-Thames,,RG9 5SB,2021-05-04,2022-05-02
+880,908,Nounsley Consulting Services LTD- Thurloe Lodge,Nounsley Consulting Services LTD,Thurloe Lodge,17 Thurloe Place,Kensington,London,SW7 2TE.,2020-07-20,2023-12-04
+881,909,"Project 7- Head Office, Wimpole St",Project7 Construction Ltd,81 Wimpole Street,,,London,W1G 9RF,,
+882,910,Project 7- QEOP,Project7 Construction Ltd,QEOP,Project 7 South Compound,"Marshgate Lane, Stratford",London,E15 2NH,2020-07-20,2020-12-31
+883,911,800 Group- Cheyne Terrace Penthouse,800 Group,5.1 Cheyne Terrace Penthouse,77 Chelsea Manor Street,,London,SW3 5QP,2020-07-20,2020-07-24
+884,912,OD Interiors- 40 Grosvenor Place- ODI203,OD Interiors,40 Grovesnor Place,,,London,SW1X 7EN,2018-11-19,2020-07-31
+885,913,"Canvas Projects- 7 Bishopsgate, London",Canvas Projects Ltd,7 Bishopsgate,Cornhill,,London,EC2N 3AR,2020-07-29,2020-10-02
+886,914,Private- Oliver James,OD Developments and Projects,3 Farnham Close,Bovingdon,Hemel Hempstead,,HP30QT,,
+887,915,"Project 7- Allendale Avenue, London",Project7 Construction Ltd,32 Allendale Avenue,,,London,N3 3PJ,2019-11-29,2020-11-30
+888,916,Cobra- Thomas Road Ind Est,Cobra Projects,Thomas Road Industrial Estate,,,London,E14 7BN,,
+889,917,Milestone- Stanwell Fields Primary School,Milestone Contracting,Stanwell Fields Primary School,Clare Road,,Stanwell,TW19 7DB,,
+890,918,Interserve Construction Ltd (Paragon Div)- Project Indigo,Interserve Construction Ltd ( Paragon Div ),Project Indigo,70 Whitehall,,London,SW1A 2AU,,
+891,919,ISG- M&S Maidstone Week Street,ISG,M&S Loading Bay,44 Week Street,Access to loading bay at rear Church Street,Maidstone,ME14 1RR,,
+892,920,Michael Brady- Kensington Square,Michael Brady Ltd,2 Kensington Square,,,London,W8 5EP,2020-08-03,2021-09-03
+893,921,"800 Group- 124 Whitehouse Road, Edinburgh",800 Group,124 Whitehouse Road,,,Edinburgh,EH4 6DQ,2020-08-03,2020-12-20
+894,922,*Holmes- Townshend Road,Holmes Metrobuild,34 Townshend Road,St John's Wood,,London,NW8 6LE,2020-10-05,2021-06-25
+895,923,"Ambit- 7 Bishopsgate, London",Ambit Moat Ltd,7 Bishopsgate (3031A),Cornhill,,London,EC2N 3AR,2020-08-10,2020-12-18
+896,924,Overbury Central- RICS Colmore Row,Overbury Central,55 Colmore Row,,,Birmingham,B3 2AA,2020-08-10,2020-08-15
+897,925,Milestone- Washington Road,Milestone Contracting,28 Washington Road,Barnes,,London,SW13 9BH,2020-08-17,
+898,926,"Morgan Lovell- Hagley Road, Birmingham",Morgan Lovell Southern,54 Hagley Road,,,Birmingham,B16 8PE,2020-08-24,2020-12-25
+899,927,"Overbury Central- University Birmingham, Medical School",Overbury Central,Medical School,University of Birmingham,Vincent Drive,Birmingham,B15 2TT,2020-08-24,2020-09-25
+900,928,"TGM- KIER,Ledian Farm",TGM Contractors Ltd,Ledian Farm,Upper Street,Leeds Village,Maidstone,ME17 1RZ,,
+901,929,"ISG- IKEA, Hammersmith",ISG,IKEA,"Kings Mall Shopping Centre, King Street",Hammersmith,London,W6 9HW,2020-07-20,2021-07-20
+902,930,Cobra- Winchester,Cobra Projects,Hyde Abbey House,Hyde Street,,Winchester,SO23 7DR,,
+903,931,"Milestone- Henslow Way, Woking",Milestone Contracting,21 Henslow Way,,,Woking,GU21 5RA,2020-08-26,
+904,932,CAPS- Ely,Caps Group Limited,Unit F,The Cloisters,,Ely,CB7 4ZH,2020-09-07,2020-09-12
+905,933,J&I Chasers- 60 Marylebone High Street,J & I Chasers Ltd,60 Marylebone High Street,,,London,W1G 6JA,2020-08-17,2020-09-14
+906,934,CLS- Bayswater Road,Construction Logistic Services,154 Bayswater Road,,,London,W2 4HP,,
+907,935,Cobra- Maidstone,Cobra Projects,"Cobra, Unit 8, Yew Tree Ind Estate",Mill Hall,Aylesford,Kent,ME20 7ET,,
+908,936,RED- Harrington Gardens,RED Construction,5-25 Harrington Gardens,Kensington,,London,SW7 4JU,2020-06-29,2021-10-25
+909,937,"*Ambit- Turnmill Street, Farringdon",Ambit Moat Ltd,76/86 Turnmill Street,Farringdon,,London,EC1M 5LG,2020-10-05,2021-02-18
+910,938,"OD Interiors- Liverpool Street, London",OD Interiors,19-33 Liverpool Street,,,London,EC2M 7PD,,
+911,939,ISG- Ikea Hammersmith- demo,ISG,IKEA,"Kings Mall Shopping Centre, King Street",Hammersmith,London,W6 9HW,2020-07-20,2021-07-20
+912,940,800 Group- Chelsea Embankment,800 Group,Flat 3,11 Chelsea Embankment,,London,SW3 4LE,2020-09-04,
+913,941,"Overbury Central Sandwell Council, Phase 4",Overbury Central,Sandwell Council,Freeth Street,Oldbury,,B69 3DE,2020-09-01,2020-11-16
+914,942,Simpson Studio- Effie Road,Simpson Studio,25 Effie Road,,Fulham,London,SW6 1EL,2021-01-01,2021-05-01
+915,943,PAYE- Reculver Roman Fort,PAYE Stonework and Restoration,Reculver Roman Fort,Reculver Court,Herne Bay,,CT6 6SS,2020-07-20,2020-10-30
+916,944,Cobra- 42 Grosvenor Gardens,Cobra Projects,42 Grosvenor Gardens,,,London,SW1W 0EB,,
+917,945,800 Group - Clarendon Road,800 Group,45 Clarendon Road,,,London,W11 4JD,2020-09-10,2020-10-07
+918,946,Make One Group- KOKO demo,Make One Group,KOKO,1A Camden High Street,via Bayham Street,London,NW1 7JE,,
+919,947,"Overbury Central- University of Wolverhampton (ToW), Telford",Overbury Central,University of Telford,Shifnall Road,,Telford,TF2 9NN,2020-09-21,2021-02-21
+920,948,"Overbury North- Atlantic Pavilion, Liverpool",Overbury North,Atlantic Pavilion,Albert Dock,,Liverpool,L3 4AB,2020-09-21,2020-11-30
+921,949,Overbury - Private Danny,Overbury Central,6 Spyglass Hill,,,Northampton,NN4 0US,2020-09-25,2020-10-09
+922,950,Cast- 51 Great Marlborough Street,Cast Interiors,51 Great Marlborough Street,,Soho,London,W1F 7JT,2020-09-21,
+923,951,"CAPS Bury New Road, Salford",Caps Group Limited,"Tim Hortons, Bury New Road",,,Salford,M7 2YJ,2020-10-05,2020-10-09
+924,952,Cast- 70 St Mary Axe,Cast Interiors,70 St Mary Axe,,,London,EC3A 8BE,2020-10-19,
+925,953,Cast- Gracechurch Street,Cast Interiors,52-54 Gracechurch Street,,,London,EC3V 0EH,2020-09-01,2020-09-28
+926,954,"Michael Brady- Private Berrill Street, Wellingborough",OTHER,37 Berrill Street,,Irchester,Wellingborough,NN29 7DT,,
+927,955,"Project 7- Site Office, Hippodrome",Project7 Construction Ltd,22 Charing Cross Rd,"Covent Garden,",,London,WC2H 0HS,,
+928,956,Interserve Construction (Paragon Div)- Minster Court 2020,Interserve Construction Ltd ( Paragon Div ),The Minster Building,21 Mincing Lane (please use Mark Lane for access to the loading bay),,London,EC3R 7DD,2020-09-14,2020-12-02
+929,957,PAYE - Bishops Waltham Abbey,PAYE Stonework and Restoration,Bishops Waltham Abbey,Winchester Road,,Southampton,SO32 1DH,2020-09-29,
+930,958,"Latitude- Pages Corner, Worthing",Latitude Contract Interiors Ltd,Pages Corner,Ham Road,,Worthing,BN11 2QL,2020-09-29,2020-10-01
+931,959,"Overbury Central- Northants Police, Wellingborough",Overbury Central,10- 14 Darby Close,Park Farm Industrial Estate,Wellingborough,,NN8 6GS,2020-09-25,2021-03-05
+932,960,"J&I Chasers- Amundi, 77 Coleman Street",J & I Chasers Ltd,77 Coleman Street,,,London,EC2R 5BN,2020-09-21,2020-10-14
+933,961,"ISG- M&S, Two Rivers,  Staines-Upon- Thames",ISG,"Unit S1A, Two Rivers Retail Park",Mustard Mill Road,,Staines- Upon-Thames,TW18 4WB,2020-10-05,2020-11-27
+934,962,"Private, Brendon Sharpe",OTHER,Summer place,Southsea Avenue,Minster,Sheppey,ME12 2NH,2020-10-08,2020-11-05
+935,963,Private- Mark Worrall,OTHER,29 Brisbane Avenue,,,London,SW19 3AF,,
+936,964,Spice Bazzar- Leicester,Spice Bazzar Restaurant and Takeaway,Maa Restaurants Limtied,326 Welford Road,,Leicester,LE2 6EH,,
+937,965,800 Group- 29 Queens Grove,800 Group,29 Queens Grove,,,London,NW8 6HJ,,
+938,966,Milestone- Aldersbrook Primary School,Milestone Contracting,Aldersbrook Primary School,Oldridge Road,Balham,London,SW12 8PP,2020-10-10,
+939,967,800 Group- 17 Murray Mews,800 Group,17 Murray Mews,,,London,NW1 9RH,,
+940,968,"Overbury Central- Solar Park, Solihull",Overbury Central,"Unit 500, Solar Park",Highlands Road,Solihull,Birmingham,B90 4SH,,
+941,969,"ISG- Nationwide Building Society, Pinner",ISG,Nationwide Building Society,63 Bridge Street,,Pinner,HA5 3JU,2020-10-05,2020-10-24
+942,970,Michael Brady- Kensington Square demo,Michael Brady Ltd,,,,,,,
+943,971,"800 Group-Ideaworks, 206 Great Portland Street",800 Group,Ideaworks,206 Great Portland Street,,London,W1W 5QJ,,
+944,972,Private- Blind Lane,OTHER,228 Blind Lane,Flackwell Heath,,Buckinghamshire,HP10 9LE,,
+945,973,"PAYE- Barkers, Derry Street",PAYE Stonework and Restoration,Barkers,4 Derry Street,Kensington,London,W8 5SE,2020-10-15,
+946,974,"TJM- Abington Street, Northampton",TJM/MSA Properties Limited,,,,,,,
+947,975,ISG- Nationwide Building Society Greenford,ISG,Nationwide Building Society Greenford,21 The Broadway,Greenford,,UB6 9PF,2020-10-26,2020-11-08
+948,976,ISG- Nationwide Building Society Chingford,ISG,Nationwide Building Society Chingford,266 Chingford Mount Road,,London,E4 8JZ,2020-11-02,2020-11-23
+949,977,800 Group- Marlborough Place,800 Group,30 Marlborough Place,St John’s Wood,,London,NW8 0PG,,
+950,978,PAYE Private- West Wickham,PAYE Stonework and Restoration,120 Copse Avenue,,,West Wickham,BR4 9NP,,
+951,979,Cast- 70 St Martin's Lane,Cast Interiors,70 St Martin's Lane,Covent Garden,,London,WC2N 4JS,,
+952,980,"*Overbury Southern- Thames Valley Park, Reading",Overbury Southern,Thames Valley Park,,,Reading,RG6 1AD,2021-01-04,2021-06-28
+953,981,"Ambit- 20 St James's Street, Level 8",Ambit Moat Ltd,"Level 8, 20 St James’s Street",,,London,SW1A 1ES,2020-10-26,2020-12-24
+954,982,800 Group- 31 Roehampton Gate,800 Group,31 Roehampton Gate,,,London,SW15 5JR,2020-10-19,
+955,983,"Overbury Central- Lynchwood House, Peterborough. Phase 2",Overbury Central,Lynchwood House,,,Peterborough,PE2 6EA,2020-11-02,2020-12-18
+956,984,800 Group- Alexander Street,800 Group,9 Alexander Street,,,London,W2 5NT,2020-10-30,
+957,985,Morgan Lovell- Middlesbrough,Morgan Lovell Southern,Building One,Center Square,Corporation Road,Middlesbrough,TS1 1LY,2020-11-02,2020-12-14
+958,986,Overbury Central- Cambridge,Overbury Central,Amazon,Poseidon House,Castle Park,Cambridge,CB3 0RD,2020-11-09,
+959,987,Private- Martin Evans,OTHER,1 Bunyan Road,Biggleswade,,Bedfordshire,SG18 8QQ,,
+960,988,Verity- Queensberry Place,Verity Interiors,17 Queensberry Place,,,London,SW7 2DT,2020-11-09,2021-03-12
+961,989,ISG- Nationwide Southall,ISG,Nationwide Southall,2 South Road,,Southall,UB1 1SU,2020-11-15,2020-11-29
+962,990,Overbury Central- BT Snow Hill- Phase 2,Overbury Central,3 Snow Hill Queensway,,,Birmingham,B4 6GA,2020-12-07,2021-06-07
+963,991,ISG- Nationwide Building Society Wandsworth,ISG,Nationwide Building Society,Unit 48 - South Mall,Southside Shopping Centre,,SW18 4TE,2020-11-16,2020-12-07
+964,992,Overbury Central- Mazars 2020 Birmingham,Overbury Central,Mazars 2020 Birmingham,First Floor,2 Chamberlain Square,Birmingham,B3 3HQ,,
+965,993,*Chelsmford City Council- Hylands Estate,OTHER,Hylands Park,Chelmsford,,Essex,CM2 8WQ,,
+966,994,"*Milestone- Amey Worthy Down, Winchester",Milestone Contracting,Sir John Moore Barrack,,,Winchester,SO22 6NQ,,
+967,995,800 Group- Warwick House,800 Group,Warwick House,St James's Palace,,London,SW1A 1BD,2020-11-17,
+968,996,800 Group- The Boltons,800 Group,11 The Boltons,Kensington,,London,SW10 9TD,,
+969,997,PAYE- Smithfield,PAYE Stonework and Restoration,Smithfield Market,25 Charter House Street,,,EC1M 6AA,2020-11-19,
+970,998,Damilola Taylor Trust,OTHER,1 Holmdale Roa,Chislehurst,,,BR7 6BY,,
+971,999,"Ambit- Chiswick Park, Building 5",Ambit Moat Ltd,Chiswick Park Building 5,566 Chiswick High Road,,"London,",W4 5YA,2020-11-23,2021-03-26
+972,1000,"Ambit- Chiswick Park, Building 9",Ambit Moat Ltd,"Chiswick Park, Building 9",566 Chiswick High Road,,London,W4 5YA,2020-11-23,2021-04-08
+973,1001,Michael Engineering Ltd- Biggin Hill,Michael Engineering LTD,Aviation LTD,"Building 529, Churchill Way",Biggin Hill,,TN16 3BN,,
+974,1002,J&I Chasers- Apex Tower,J & I Chasers Ltd,Apex Tower,High Street,,,KT3 4DQ,2020-11-05,2021-03-30
+975,1003,"Milestone- Lockwood Path, Woking",Milestone Contracting,24 Lockwood Path,,,Woking,GU21 5RH,2020-11-23,2020-12-11
+976,1004,"*Make One Group- Kodak House, 65 Kingsway",Make One Group,Kodak House,65 Kingsway,,London,WC2B 6TD,2020-08-01,2021-09-06
+977,1005,CLS- Charles Street,Construction Logistic Services,18B Charles Street,Mayfair,,London,W1J 5DU,2020-11-26,
+978,1006,APR- St John's Wood,APR Group Ltd,Ordnance Mews,St John's Wood,,London,NW8 6PF,2020-12-02,2020-12-09
+979,1007,PAYE- Brooks Club,PAYE Stonework and Restoration,Brooks Club,St James's Street,,London,SW1A 1LN,,
+980,1008,"ISG- Post Building, Unit 3",ISG,Post Building,Unit 3 New Oxford Street,Holborn,London,WC1A 1JS,,
+981,1009,Interserve Construction (Paragon Div)- Sopwell House,Interserve Construction Ltd ( Paragon Div ),Sopwell House,Cottonmill Lane,,St Albans,AL1 2HQ,,
+982,1010,Verity- Victoria Place,Verity Interiors,Telegraph Media Group,Loading Bay Victoria Place,,London,SW1W 9SJ,,
+983,1011,"Overbury, Waterfront, Nottingham",Overbury Central,Waterfront,Beeston Business Park,,Nottingham,NG9 2ND,,
+984,1012,"ISG, Nationwide Eastbourne",ISG,Nationwide Building Society,130 Terminus Road,,Eastbourne,BN21 3AJ,,
+985,1013,"*Interserve Construction (Paragon Div)- 23 Kirby Street, London",Interserve Construction Ltd ( Paragon Div ),23 Kirby Street,,,London,EC1N 8FA,,
+986,1014,"Overbury- Building 270, Cambridge Science Park",Overbury Central,Building 270,Cambridge Science Park,,Cambridge,CB4 0WE,2020-12-21,
+987,1015,*Make One Group- George West House,Make One Group,George West House,2-3 Clapham Common North Side,Clapham Town,London,SW4 0QL,2021-01-18,2022-06-02
+988,1016,*Od Interiors- 83 Clerkenwell Road,OD Interiors,83 Clerkenwell Road,,,London,EC1R 5AR,2021-02-22,2021-11-19
+989,1017,ISG- M&S Staines- Upon- Thames Closure,ISG,105 High Street,Staines- upon- Thames,,,TW18 4PJ,2020-12-09,
+990,1018,PAYE- Project Quadra,PAYE Stonework and Restoration,Bassingbourne Barracks,"Royston,",,,SG8 5LX,,
+991,1019,800 Group- 45 Queens Grove,800 Group,45 Queens Grove,,,London,NW8 6HH,,
+992,1020,"Morgan Lovell- Capability Green, Luton",Morgan Lovell Southern,475 Capability Green,,,Luton,LU1 3LU,,
+993,1021,*Morgan Sindall- BDP 755 - GW Pharma,Morgan Sindall,Building B755 Kent Science Park,Sittingbourne,,Kent,ME9 8PX,,
+994,1022,800 Group- Ennismore Gardens,800 Group,6 Ennismore Gardens,,,London,SW7 1NL,,
+995,1023,*RED- Townsend House,RED Construction,Townsend House,5 Greycoat Place,,London,SW1P 1BL,2021-01-25,2021-05-29
